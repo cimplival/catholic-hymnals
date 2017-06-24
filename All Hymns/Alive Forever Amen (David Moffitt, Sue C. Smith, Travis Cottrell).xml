@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:42:39">
+  <properties>
+    <titles>
+      <title>Alive Forever Amen</title>
+    </titles>
+    <copyright>2003 New Spring / CCTB Music / First Hand Revelation Music, Administered by Brentwood-Benson Music Publishing, Inc. / Integrit</copyright>
+    <verseOrder>c1 c2 v1 v2 b1 b1</verseOrder>
+    <ccliNo>4190176</ccliNo>
+    <authors>
+      <author>David Moffitt</author>
+      <author>Sue C. Smith</author>
+      <author>Travis Cottrell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>He's alive alive alive<br/>Hallelujah alive<br/>Praise and glory to the Lamb<br/>Alive alive alive hallelujah<br/>Alive forever amen</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'm alive alive alive<br/>Hallelujah alive<br/>Praise and glory to the Lamb<br/>Alive alive alive hallelujah<br/>Alive forever amen</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Let the children sing<br/>A song of liberation<br/>The God of our salvation<br/>Set us free<br/>Death where is thy sting<br/>The curse of sin is broken<br/>The empty tomb stands open<br/>Come and see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let my heart sing out<br/>For Christ the One and only<br/>So powerful and holy<br/>Rescued me<br/>Death won't hurt me now<br/>Because He has redeemed me<br/>No grave will ever keep me<br/>From my King</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Worthy is the Lamb<br/>Worthy of our praise<br/>Worthy is the One<br/>Who has overcome the grave<br/>Let the people dance<br/>Let the people sing<br/>Worthy is the mighty King</lines>
+    </verse>
+  </lyrics>
+</song>

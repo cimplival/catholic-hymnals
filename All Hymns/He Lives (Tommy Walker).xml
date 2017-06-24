@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:54">
+  <properties>
+    <titles>
+      <title>He Lives</title>
+    </titles>
+    <copyright>2001 WeMobile Music / Bridge Building Music, Inc., Administered by WeMobile Music / Brentwood-Benson Music Publishing</copyright>
+    <ccliNo>3715040</ccliNo>
+    <authors>
+      <author>Tommy Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got something to sing about<br/>I've got something to shout about<br/>I've got something to tell the world about<br/>I've got something to live for<br/>I've got something worth dying for<br/>I've got something to tell the world about</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He lives He lives I know my Savior lives<br/>He lives He lives His life has set me free<br/>I've got something to sing about<br/>I've got something to shout about<br/>I've got something to tell the world about<br/>I stand here forgiven<br/>Abundant life I'm liven'<br/>Because He lives all these things I've found</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There have been many who claimed<br/>That they were God but in those graves<br/>Their bones remain but in the tomb<br/>Where my Jesus once was laid<br/>There's nothing there that's why I have to say</lines>
+    </verse>
+  </lyrics>
+</song>

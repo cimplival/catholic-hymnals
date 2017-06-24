@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-29T15:03:13">
+  <properties>
+    <titles>
+      <title>Allelluia</title>
+    </titles>
+    <authors>
+      <author>Allelluia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Allelluia Allelluia Allelluia,<br/>Allelluia Allelluia Allelluia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Speak Lord your servant is listening,<br/>you have the words of everlasting life.  </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Allelluia Allelluia Allelluia,<br/>Allelluia Allelluia Allelluia.</lines>
+    </verse>
+  </lyrics>
+</song>

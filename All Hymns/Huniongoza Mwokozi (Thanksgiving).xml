@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:08">
+  <properties>
+    <titles>
+      <title>Huniongoza Mwokozi</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+    <songbooks>
+      <songbook name="Queen of Apostles" entry="832"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Huniongoza mwokozi ndipo nami <br/>hufurahi.<br/> niendapo pote napo ataniongoza papo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Huongoza hunishika<br/>kwa mkono wako<br/>nitaandamana naye<br/>Kristu aniongozaye</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pengine ni mashakani nami pengine rahani<br/>ni radhi ijayo yote<br/>yuko nami siku zote</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mkono akinishika kamwe sitanungunika<br/>atakachoniletea ni tayari kupokea</lines>
+    </verse>
+  </lyrics>
+</song>

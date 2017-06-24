@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:36:24">
+  <properties>
+    <titles>
+      <title>Ndakaire Jehova</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Ndakaire jehova akihe utonga uyu muingi ma<br/>Utonga wakwa muingi, wango'mbena Mburi nyingi ma<br/>Ngiona ta ndaiganira ngiriganirwo ni Ngaiuheanaga</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Ngukaira Jehova )Ngai riria ndimunyamaru<br/>Na riria ndimurwaru  ii, Na riria ndina mathina maingi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Norio nguririkana Ngai munyumbi<br/>Na riria njiganiire ii Na maundu ma thi<br/>NdingimuririkanaNgai wakwa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>1. (Ngai niaheireHinya ngiruta wira wa biacaraBiacara igitherema  mbia ikiingiha ta mahuti (Ngiona ta ndiganira) Ngiriganirwo ni Ngaiuheanaga</lines>
+    </verse>
+    <verse name="v5">
+      <lines>2. (Ndiari na gwa kurima,) Akihe migunda miingi ma (Magetha ma kiingiha) na mbembena njahi nyingi ma(Ngiona ta ndaiganira) Ngiriganirwo ni Ngai uheanaga</lines>
+    </verse>
+    <verse name="v6">
+      <lines>3. (Ngihoya Mwene Nyaga) ciana igithoma wega muno (Ciothe iri mawira-ini) gutiri na thina menagwo (Ngiona ta ndaiganira) Ngiriganirwo ni Ngai uheanaga.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-12-04T04:09:48">
+  <properties>
+    <titles>
+      <title>Tulishangilie Neno</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <themes>
+      <theme>Neno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wakristu tulishangilie,<br/>neno neno lake Bwana (neno) <br/>ambalo ni mwangaza <br/>wa njia zetu. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Linakuja kwetu neno lake, <br/>(Bwana) tulisikie na tulifuate <br/>kupata uzima wa milele. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa furaha tulipokee <br/>neno lake (Bwana wetu), <br/>ndilo neno <br/>lenye kutuletea sote (wokovu).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neno lake Bwana kweli <br/>ni faraja kwa (watesekao), <br/>hivyo basi tulisome tunapokuwa <br/>(matesoni).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Linashinda mbinu zake zote <br/>muovu yule (shetani), <br/>basi tulifanye neno la Bwana <br/>kuwa (ngao yetu).</lines>
+    </verse>
+  </lyrics>
+</song>

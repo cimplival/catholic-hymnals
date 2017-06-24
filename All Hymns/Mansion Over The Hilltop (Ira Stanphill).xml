@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:14">
+  <properties>
+    <titles>
+      <title>Mansion Over The Hilltop</title>
+    </titles>
+    <copyright>1949 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>19980</ccliNo>
+    <authors>
+      <author>Ira Stanphill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I've got a mansion<br/>Just over the hilltop<br/>In that bright land<br/>Where we'll never grow old<br/>And someday yonder<br/>We will never more wander<br/>But walk the streets<br/>That are purest gold</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I'm satisfied<br/>With just a cottage below<br/>A little silver<br/>And a little gold<br/>But in that city<br/>Where the ransomed will shine<br/>I want a gold one<br/>That's silver lined</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tho' often tempted<br/>Tormented and tested<br/>And like the prophet<br/>My pillow's a stone<br/>And tho' I find here<br/>No permanent dwelling<br/>I know He'll give me<br/>A mansion my own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't think me poor<br/>Or deserted or lonely<br/>I'm not discouraged<br/>I'm heaven bound<br/>I'm just a pilgrim<br/>In search of a city<br/>I want a mansion<br/>A harp and a crown</lines>
+    </verse>
+  </lyrics>
+</song>

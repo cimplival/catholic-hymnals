@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:02:05">
+  <properties>
+    <titles>
+      <title>Panda Milimani</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Panda milimani, x2 <br/>shuka mabondeni, x2 <br/>shika hili neno, <br/>neno la Bwana.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Neno lake Bwana, <br/>neno la wokovu<br/>neno la ushindi, <br/>neno la fundisho <br/>shikeni neno, <br/>neno la Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neno lake Bwana, <br/>neno la umoja, <br/>neno la upendo <br/>neno la amani <br/>shikeni neno, <br/>neno la Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neno lake Bwana <br/>neno kwa mapadri, <br/>neno kwa mabruda, <br/>neno kwa wakristu, <br/>shikeni neno <br/>neno la Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Neno lake Bwana, <br/>neno kwa watoto, <br/>neno kwa vijana, <br/>neno kwa wazazi, <br/>shikeni neno <br/>neno la Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

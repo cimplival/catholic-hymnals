@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T18:43:48">
+  <properties>
+    <titles>
+      <title>Bwana Ametualika</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana ametualika<br/>Bwana ametualika mezani  mwake  <br/>tule  mwili (tule) mwili  wake  yesu  <br/>na  tuinywe damu  yake  (ni chakula) <br/>ni chakula toka mbinguni</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aulaye  mwili  wa  yesu <br/>na  kuinywa  damu  yake  <br/>upata uzima  ule  ule  wa  milele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njooni wenye  njaa <br/>na  kiu  kwenye  karamu  <br/>ili  muipate  shibe  ile  ile  ya milele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa  kupokea  ekaristi  <br/>twaadhimisha  kufa  na  kufufuka  <br/>kwa  yesu  mkombozi  wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:23">
+  <properties>
+    <titles>
+      <title>Misa Centinary Nasadiki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasadiki kwa Mungu Mmoja,	W: Nasadiki,<br/>V: Ndiye Baba yetu Mwenyezi    W: Nasadiki,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V: Mwumba mbingu pia dunia	W: Nasadiki,<br/>V: Nasadiki Kwa Yesu Kristu	 	W: Nasadiki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W: Nasadiki (Nasadiki), Nasadiki (Nasadiki) (x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>V: Mwana wa pekee wa Mungu	 	W: Nasadiki,<br/>V: Aliyezaliwa kwa Baba		W: Nasadiki,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V: Akapata mwili kwa Roho		W: Nasadiki,<br/>V: Kazaliwa na Bikira			W: Nasadiki.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>V: Kisha yeye 'kasulubiwa		W: Nasadiki,<br/>V: Kwa amri ya Ponsyo Pilato		W: Nasadiki,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>V: Kwa ajili yetu 'kateswa		W: Nasadiki,<br/>V: Akafa na akazikwa			W: Nasadiki.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>V: 'Kafufuka katika wafu		W: Nasadiki,<br/>V: Akapaa juu mbinguni			W: Nasadiki,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>V: Ameketi kuume kwake		W: Nasadiki,<br/>V: Mungu Baba yetu Mwenyezi	W: Nasadiki.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>V: Ndipo atakapotokea			W: Nasadiki,<br/>V: Kuhukumu wazima na wafu		W: Nasadiki,</lines>
+    </verse>
+    <verse name="v11">
+      <lines>V: Kwake Roho Mtakatifu		W: Nasadiki,<br/>V: Kwa kanisa la katoliki			W: Nasadiki.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>V: Ushirika wa watakatifu		W: Nasadiki,<br/>V: Maondoleo ya dhambi zetu		W: Nasadiki,</lines>
+    </verse>
+    <verse name="v13">
+      <lines>V: Nangojea 'fufuko wa miili		W: Nasadiki,<br/>V: Na uzima wa milele			W: Nasadiki.</lines>
+    </verse>
+  </lyrics>
+</song>

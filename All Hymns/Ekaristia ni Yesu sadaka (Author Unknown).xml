@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:07">
+  <properties>
+    <titles>
+      <title>Ekaristia ni Yesu sadaka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Ekaristia ni Yesu sadaka <br/>Ekaristia ni Yesu chakula<br/>Ekaristia ni Yesu mwili wa Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ekaristia ni mkate wa Mungu<br/>Ekaristia mana ya ukweli<br/>Ekaristia ni uzima wetu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.Ekaristia ni damu ya Yesu<br/>Ekaristia ni kinywaji chetu<br/>Ekaristiani chemichemi ya uzima</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.Yesu mwenyewe ametufundisha <br/>Yesu mwenyewe ametufumbulia <br/>Neno la Mungu nani atakana</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.Songea meza yake takatifu <br/>Kwa moyo safinawe umpokee <br/>Atatolea nyingi zake neema</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6.Mungu mwamini nakutumaini<br/>Ee Mungu mzima ninakushukuru<br/>Ee Mungu wangu nakupenda sana</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7.Sadiki mkristu upote wokovu<br/>Ndiyo ahadi ya Mwenyezi atakupokea<br/>Mwisho mbinguni atakupokea.</lines>
+    </verse>
+  </lyrics>
+</song>

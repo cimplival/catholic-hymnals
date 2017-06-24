@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-11-20T17:40:52">
+  <properties>
+    <titles>
+      <title>Itengenezeni Njia ya Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Advent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Itengenezeni njia ya Bwana, <br/>Bwana apite (mapito yake)<br/>Yanyoosheni mapito <br/>ya Mungu wetu aingie. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tazama namtuma mjumbe wangu, <br/>mbele ya uso wako,<br/>Atakayeitengeneza njia yako,<br/>Sauti ya mtu, aliaye nyikani <br/>nyikani inasema. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ondoka ee Yerusalemu, <br/>usimame juu<br/>Tazama uione furaha,<br/>Inayokujia, kutoka kwake Mungu, <br/>Mungu wako. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yajazeni yale mabonde <br/>yote yashusheni milima,<br/>Panyosheni na pale palipopotoka<br/>Tayarisheni njia na mapito <br/>ya Bwana aingie. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na watu wote wenye mwili, <br/>wataona wokovu,<br/>Wataona wokovu wake <br/>Mungu wetu,<br/>Kwa sababu yeye <br/>atakayetukujia ni mwokozi. x2</lines>
+    </verse>
+  </lyrics>
+</song>

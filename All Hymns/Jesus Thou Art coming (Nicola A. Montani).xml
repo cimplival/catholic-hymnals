@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:32">
+  <properties>
+    <titles>
+      <title>Jesus Thou Art coming</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Nicola A. Montani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Thou art coming,<br/>Holy as Thou art,<br/>Thou, the God who made me,<br/>To my sinful heart.<br/>Jesus, I believe it<br/>On Thy only word;<br/>Kneeling, I adore Thee<br/>As my King and Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who am I, my Jesus,<br/>That Thou comet to me?<br/>I have sinned against Thee,<br/>Often, grievously;<br/>I am very sorry<br/>I have caused Thee pain;<br/>I will never, never,<br/>Wound Thy Heart again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Put Thy kind arms round me,<br/>Feeble as I am;<br/>Thou art my Good Shepherd,<br/>I, Thy little lamb;<br/>Since Thou comest, Jesus,<br/>Now to be my Guest,<br/>I can trust Thee always,<br/>Lord, for all the rest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dearest Lord, I love Thee,<br/>With my whole, whole heart,<br/>Not for what Thou givest,<br/>But for what Thou art.<br/>Come, oh, come, sweet Saviour!<br/>Come to me, and stay,<br/>For I want Thee, Jesus,<br/>More than I can say.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ah! what gift or present,<br/>Jesus, can I bring?<br/>I have nothing worthy<br/>Of my God and King;<br/>But Thou art my Shepherd,<br/>I, Thy little lamb;<br/>Take myself, dear Jesus,<br/>All I have and am.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Take my body, Jesus,<br/>Eyes, and ears, and tongue;<br/>Never let them, Jesus,<br/>Help to do Thee wrong.<br/>Take my heart, and fill it<br/>Full of love for Thee;<br/>All I have I give Thee,<br/>Give Thyself to me. </lines>
+    </verse>
+  </lyrics>
+</song>

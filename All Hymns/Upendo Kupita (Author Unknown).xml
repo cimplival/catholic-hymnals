@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:48">
+  <properties>
+    <titles>
+      <title>Upendo Kupita</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Upendo Kupita Upeo Lyrics</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Mungu wangu kwa hakika unanipenda<br/>upeo wa macho yangu sijui nikulipe nini<br/>Maisha yangu nayatazama nashukuru<br/>Kwa yote uliyotenda na pale uliponitoa</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ningelikuwa natazama ya binadamu<br/>Fadhila yake ingelikuwa madharau<br/>Lakini wewe utoaye hewa na maji (watugawia)<br/>Tajiri hata walemavu na maskini</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na marafiki walinipenda wengi sana<br/>Nilipokuwa na gari na nyumba yenye kupendeza<br/>Walinipenda pale pesa zilipoisha<br/>Majuto niliyapata nilipoachwa peke yangu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Maisha yangu yalipokuwa yenye shida<br/>Hakika ulinitoa nilipoanguka shimoni<br/>Baraka nyingi ulimimina kwangu mimi<br/>Hata nao majirani sasa wamebaki butwaa</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ninashukuru kwa kunikinga na ajali<br/>Ninaposafiri mimi umekuwa dereva wangu<br/>Pia magonjwa umeyapiga teke kwangu<br/>Hakika nina sababu ya kutamka sifa zako</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:52:20">
+  <properties>
+    <titles>
+      <title>Worthy</title>
+    </titles>
+    <copyright># 2004 New Spring (a div. of Brentwood-Benson, Administered by BMG Music Publishing</copyright>
+    <ccliNo>4607999</ccliNo>
+    <authors>
+      <author>Jess Cates</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>With my heart I cry to You<br/>With my soul I thirst for You<br/>With my flesh I die to You<br/>Holy One, Holy One, I come to You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>With my lips I shout to You<br/>With my hands I reach to You<br/>With my knees I bow to You<br/>Holy One, Holy One, I come to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are worthy Lord<br/>You are worthy<br/>You are worthy Lord<br/>You are worthy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:22">
+  <properties>
+    <titles>
+      <title>Misa Centenary Mwanakondoo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ee mwanakondoo wa Mungu uondoaye dhambi za dunia ee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee mwana tuhurumie<br/>Mwanakondoo wa mungu ee Mwana tuhurumie*2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwanakondoo wa Mungu ee<br/>Amani utujalie</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mwenye kuondoa dhambi zetu ee<br/>Amani utujalie</lines>
+    </verse>
+    <verse name="v5">
+      <lines>utujalie amani ee<br/>amani utujalie*2</lines>
+    </verse>
+  </lyrics>
+</song>

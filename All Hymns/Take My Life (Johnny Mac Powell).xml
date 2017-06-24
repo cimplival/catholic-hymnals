@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:12">
+  <properties>
+    <titles>
+      <title>Take My Life</title>
+    </titles>
+    <copyright>1996 New Spring / Big Man Little Man Music / Gray Dot Songs, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>2027708</ccliNo>
+    <authors>
+      <author>Johnny Mac Powell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Please take from me my life<br/>When I don't have the strength<br/>To give it away to You<br/>Please take from me my life<br/>When I don't have the strength<br/>To give it away to You Jesus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>How many times<br/>Have I turned away<br/>The number is the same<br/>As the sand on the shore<br/>Every time You've taken me back<br/>And now I pray<br/>You'll do it once more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How many times<br/>Have I gone astray<br/>The number is the same<br/>As the stars in the sky<br/>Every time You've taken me back<br/>And now I pray<br/>You'll do it tonight</lines>
+    </verse>
+  </lyrics>
+</song>

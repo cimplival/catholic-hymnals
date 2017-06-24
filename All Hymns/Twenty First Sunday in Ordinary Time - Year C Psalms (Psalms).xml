@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:33">
+  <properties>
+    <titles>
+      <title>Twenty First Sunday in Ordinary Time - Year C Psalms</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Psalms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Go into all the word<br/>and preach the Gospel.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>O praise the Lord,<br/>all you nations;<br/>acclaim him,<br/>all you peoples!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For his merciful love<br/>has prevailed over us;<br/>and the Lord's faithfulness<br/>endures forever.</lines>
+    </verse>
+  </lyrics>
+</song>

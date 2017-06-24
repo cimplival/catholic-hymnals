@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:08">
+  <properties>
+    <titles>
+      <title>Thy Lovingkindness</title>
+    </titles>
+    <copyright>1956 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>11012</ccliNo>
+    <authors>
+      <author>Hugh Mitchell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>My lips shall praise Thee<br/>Thus will I bless Thee<br/>I will lift up my hands<br/>Unto Thy name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Thy loving kindness<br/>Is better than life<br/>Thy loving kindness<br/>Is better than life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lift my hands Lord<br/>Unto Thy name<br/>I lift my hands Lord<br/>Unto Thy name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rememb'ring Thee Lord<br/>I'm satisfied<br/>Rememb'ring Thee Lord<br/>I'm satisfied</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Safe in Thy Shadow<br/>I will rejoice<br/>Safe in Thy shadow<br/>I will rejoice</lines>
+    </verse>
+  </lyrics>
+</song>

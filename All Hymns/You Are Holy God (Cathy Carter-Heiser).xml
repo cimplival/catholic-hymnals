@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:52:26">
+  <properties>
+    <titles>
+      <title>You Are Holy God</title>
+    </titles>
+    <copyright>2002 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>4710707</ccliNo>
+    <authors>
+      <author>Cathy Carter-Heiser</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You are holy holy<br/>You are holy God<br/>You are holy holy<br/>You are holy God</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Here in this quiet place<br/>I rest in Your embrace<br/>Here in these tender moments with You<br/>I see You on the throne<br/>I trust in You alone<br/>Here in these quiet moments with You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here in the stillness of<br/>Your pure anointed love<br/>I cherish every moment with You<br/>I feel Your beating heart<br/>But I only know in part<br/>The fullness of each moment with You</lines>
+    </verse>
+  </lyrics>
+</song>

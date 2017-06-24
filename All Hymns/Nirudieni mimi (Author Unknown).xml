@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:06">
+  <properties>
+    <titles>
+      <title>Nirudieni mimi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nirudieni mimi</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Lakini hata sasa asema Bwana nirudieni nyinyi kwa<br/>mioyo yenu yote.*2</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>1.Fanyeni mabadiliko mioyoni mwenu,kwa kuufungu na kwa</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>kulia na kuomboleza nirudieni mimi kwa mioyo yenu yote.</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>2.Pigeni tarumbeta huko sayuni,waambieni watu <br/>ili wafunge nirudieni mimi...</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>3.Kusanyeni watu wote waleteni kwangu,waleteni watoto hata wazee<br/>nirudieni mimi</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>4.Mpingeni yule mwovu atawakimbia,nikaribieni nami nitawakaribia,<br/>nirudieni mimi</lines>
+    </verse>
+    <verse name="c1g">
+      <lines>5.Takaseni mioyo yenu iliyojaa dhambi,safishini mioyo yenu yenye<br/>yenye nia mbili-nirudieni mimi</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:08:44">
+  <properties>
+    <titles>
+      <title>Sadaka Yetu Bwana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sadaka yetu Bwana  twaomba upokee ni mazao ya mashamba yetu eeh Baba upokee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.Mkate na Divai na pia nafsi zetu ni zawadi yetu kwako ee Baba upokee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Na fedha za mifukoni mazao ya mashamba Ee Baba ni kazi zetu twaomba upokee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3.Pokea na nyoyo zetu miili yetu pia Ee Baba  utupokee tulio wana wako.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4.Pokea tunakuomba ingawa ni kidogo kwa unyenyekevu Baba tunavileta kwako</lines>
+    </verse>
+  </lyrics>
+</song>

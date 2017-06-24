@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-12-18T03:17:08">
+  <properties>
+    <titles>
+      <title>Uzipokee Sadaka</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>sadaka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uzipokee Sadaka<br/>ee Bwana Mungu<br/>Tusikie, Bwana,<br/>Uzipokee kwa wema<br/>ee Bwana Mungu wetu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Twakutolea sadaka<br/>ya ibada yetu,<br/>ikupendeze itupatie <br/>wokovu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ututakase kwa nguvu <br/>ya sadaka hii,<br/>na tupate maondoleo <br/>ya dhambi zetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni nani aliye Mungu<br/>ila wewe Bwana,<br/>na utukuzwe Mungu<br/>wa wokovu wetu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eh Bwana usikilize<br/>sala zetu <br/>tunazokutolea<br/>Bwana Mungu wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

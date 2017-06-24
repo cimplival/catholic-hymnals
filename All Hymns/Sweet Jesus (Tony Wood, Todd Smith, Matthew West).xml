@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:11">
+  <properties>
+    <titles>
+      <title>Sweet Jesus</title>
+    </titles>
+    <copyright># 2006 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/Row J, Seat 9 Songs /Curb, Administered by BMG Music Publishing; non-commercial licensing adm</copyright>
+    <ccliNo>4045410</ccliNo>
+    <authors>
+      <author>Tony Wood</author>
+      <author>Todd Smith</author>
+      <author>Matthew West</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Sweet Jesus my Savior you are my faithful friend<br/>You made me you know me you’ve seen my every sin<br/>My soul is amazed<br/>By the gift of your grace<br/>And the arms that take me<br/>Sweet Jesus my Savior you are my faithful friend</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Sweet Jesus my shelter you are my faithful friend<br/>The refuge I run to when the world comes closing in<br/>Why should I be afraid<br/>When I know I am saved<br/>By the arms that take me in<br/>Sweet Jesus my shelter you are my faithful friend</lines>
+    </verse>
+    <verse name="o3a">
+      <lines>Sweet Jesus my shepherd you are my faithful friend<br/>You hold me you lead me I’ll follow to the end<br/>And once more I will say<br/>On that beautiful day<br/>When your arms take me in<br/>Sweet Jesus my shepherd you are my faithful friend</lines>
+    </verse>
+    <verse name="o3b">
+      <lines>End<br/>Sweet Jesus my Savior you are my faithful friend</lines>
+    </verse>
+  </lyrics>
+</song>

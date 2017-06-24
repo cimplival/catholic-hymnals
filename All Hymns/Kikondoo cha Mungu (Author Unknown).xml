@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:46:49">
+  <properties>
+    <titles>
+      <title>Kikondoo cha Mungu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kikondoo cha Mungu, mkate wa mbinguni,<br/>mlishi wa roho yangu, nakuabudu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. U babangu mwema namsimamizi,<br/>mpaji wa uzima, wangu mwokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Fumbo abudiwanakuamini,Kaza,<br/>Yesu mpendwa, yangu imani</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Mlo wa roho yangu, hostia nzima,<br/>niwie ya mbingu kweli amana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Ee Rabi,Mtu-Mungu,unirizishe,<br/>Njoo, shuka kwangu kanishibishe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. Anakaribia mpenzi amini,<br/>hata kaingia mwangu moyoni.</lines>
+    </verse>
+  </lyrics>
+</song>

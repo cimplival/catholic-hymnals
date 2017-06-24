@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:47">
+  <properties>
+    <titles>
+      <title>The Redeemer Is Here</title>
+    </titles>
+    <copyright># 2006 New Spring, a div. of Brentwood-Benson, Administered by BMG Music Publishing</copyright>
+    <ccliNo>4708740</ccliNo>
+    <authors>
+      <author>Chad Cates</author>
+      <author>Jason Houser</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Lamb<br/>Who died for love<br/>Holy Spirit <br/>Here with us<br/>We are humbled<br/>On our knees<br/>Lord here we are<br/>Surrendering</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The redeemer is here<br/>And the moment is now<br/>His love for us is real<br/>With one voice, we cry out<br/>Loud and clear<br/>The Redeemer is here</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are the risen one<br/>You are emmanuel<br/>With your grace and forgiveness<br/>Heal us Lord Jesus We cry out</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>The redeemer is here/ You are the risen one<br/>And the moment is now/ You are emmanuel<br/>His love for us is real/ With your grace and forgiveness<br/>With one voice, we cry out/ Heal us Lord Jesus We cry out</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>The redeemer is here/ You are the risen one<br/>And the moment is now/ You are emmanuel<br/>His love for us is real/ With your grace and forgiveness<br/>With one voice, we cry out/ Heal us Lord Jesus We cry out<br/>Loud and clear<br/>The Redeemer is here</lines>
+    </verse>
+  </lyrics>
+</song>

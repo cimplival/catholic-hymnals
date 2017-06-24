@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:05:00">
+  <properties>
+    <titles>
+      <title>Rekei Akahuruke</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rekei akahuruke tigai kumuririra, ruru ni rugendo turi rekei akahuruke x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.No haria we atuika ambirire –  rekei akahuruke,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Onaithui no rugendo tuhote – “  rekei akahuruke,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mahoya nomo mabataranie –“   rekei akahuruke,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>2.Tutigagitetie Ngai mumbi witu – “ rekei akahuruke,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nigugikua uyu turendete – “ rekei akahuruke,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Rekei agatwetagirire kuo – “ rekei akahuruke,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>3.Rekei tukigirie maithori – “ rekei akahuruke,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Natuiganire naitua ria Ngai – “ rekei akahuruke,</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tundu ithuothe turi riumba riake – “ rekei akahuruke.</lines>
+    </verse>
+  </lyrics>
+</song>

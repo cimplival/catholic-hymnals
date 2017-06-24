@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:19">
+  <properties>
+    <titles>
+      <title>Tunaomba Amani</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tunaomba Amani,<br/>Tunaomba Amani,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Amani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tunaomba Upendo,<br/>Tunaomba Upendo,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Upendo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tunaomba faraja,<br/>Tunaomba faraja,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Faraja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tunaomba hekima,<br/>Tunaomba hekima,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>hekima.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tunaomba furaha,<br/>Tunaomba furaha,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>Kwa jina la Yesu<br/>tunaomba,<br/>furaha.</lines>
+    </verse>
+  </lyrics>
+</song>

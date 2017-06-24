@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-29T07:26:43">
+  <properties>
+    <titles>
+      <title>Mimina Neema</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 e1 e2 e3</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mimina, <br/>kama vile zilivyojaa juu, <br/>mimina,<br/>ziteremke tuzipokee <br/>Bwana.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mimina, neema zako mimina, <br/>kati yetu mimina, neema tele <br/>mimina, Mungu wetu, <br/>mimina leo neema nyingi mimina, <br/>tufurahi mimina, Bwana mimina, <br/>leo mimina Ee Bwana <br/>miminaa (x2) Neema miminaa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mimina,<br/>ulivyomimina kwa Abrahamu, <br/>mimina, <br/>uwamiminiavyo wamchao <br/>Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mimina, <br/>tujae nguvu za kukutukuza, <br/>mimina, <br/>tukazieneze sifa zako <br/>Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Twakuinulia mikono, <br/>huko uliko juu tazama wana wako, <br/>tunaomba neema) </lines>
+    </verse>
+    <verse name="e1">
+      <lines>Mimina neema mimina, <br/>mimina neema mimina,<br/>tunaomba <br/>Bwana mimina mimina <br/>neema mimina;</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Mimina kwa wote tulioko <br/>hapa tujaze neema mimina, <br/>mimina hata kwa walioko mbali<br/>peleka neema mimina, <br/>mimina usiku mimina mchana</lines>
+    </verse>
+    <verse name="e3">
+      <lines>mimina neema mimina, <br/>mimina masika mpaka kiangazi <br/>daima neema mimina,<br/>mimina neema mimina<br/>mimina neema mimina daimaa.</lines>
+    </verse>
+  </lyrics>
+</song>

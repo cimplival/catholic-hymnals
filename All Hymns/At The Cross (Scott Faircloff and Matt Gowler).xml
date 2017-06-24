@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:02">
+  <properties>
+    <titles>
+      <title>At The Cross</title>
+    </titles>
+    <comments>
+      <comment>slide (misc 1)
+
+[above are Song Tags with notes imported from                         EasyWorship]</comment>
+    </comments>
+    <copyright># 2004 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com), Administered by BMG Music Publishing; non-commercial licensing adm</copyright>
+    <ccliNo>4457235</ccliNo>
+    <authors>
+      <author>Scott Faircloff and Matt Gowler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Beautiful Savior <br/>All through the ages<br/>You’ve been a constant friend<br/>Your body was broken in order to save me<br/>Now I am born again</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I find strength in your love<br/>I find power in your blood<br/>I find comfort in the source of your arms</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>At the cross I am changed<br/>And my life will never be the same<br/>You’ve become my rock and my peace<br/>A glorious song that’s risen in me<br/>Your love made a way and everything changed<br/>At the cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glorious Savior <br/>Shining forever<br/>As sweet as the light I see<br/>So beautifully broken, reigning in power<br/>You’re the bread of life who lives to set me free</lines>
+    </verse>
+  </lyrics>
+</song>

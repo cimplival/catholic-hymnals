@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:40">
+  <properties>
+    <titles>
+      <title>Come Unto Us</title>
+    </titles>
+    <copyright>2004 New Spring / Jess Cates Music / Zarah Music Publishing / Evident Music Publishing, Administered by Brentwood-Benson Music Publishing, Inc. / Unaffili</copyright>
+    <ccliNo>4612630</ccliNo>
+    <authors>
+      <author>Chad Cates</author>
+      <author>Jess Cates</author>
+      <author>Randy Jackson</author>
+      <author>Ricky Ja</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>This is our song<br/>One humble plea<br/>Lord here we are<br/>In need of Thee<br/>And so we wait<br/>With expectations<br/>As we proclaim<br/>The God of Jacob</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Come come unto us<br/>Come unto us<br/>Breath of heaven<br/>Breathe breathe into us<br/>Life out of dust<br/>Spirit of Jesus</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Weary we fall<br/>Before Your throne<br/>Just travelers<br/>Longing for home<br/>With confidence<br/>Sealed by Your blood<br/>Lord we approach You<br/>The King of love</lines>
+    </verse>
+    <verse name="o4">
+      <lines>God is with us<br/>Hallelujah<br/>Emmanuel<br/>Christ is risen<br/>Hallelujah<br/>Emmanuel</lines>
+    </verse>
+  </lyrics>
+</song>

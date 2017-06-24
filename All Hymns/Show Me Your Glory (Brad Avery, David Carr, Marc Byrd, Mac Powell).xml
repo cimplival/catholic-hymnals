@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:45">
+  <properties>
+    <titles>
+      <title>Show Me Your Glory</title>
+    </titles>
+    <copyright>2001 New Spring / Meaux Mercy, Administered by Brentwood-Benson Music Publishing, Inc. / EMI Chri</copyright>
+    <ccliNo>3522989</ccliNo>
+    <authors>
+      <author>Brad Avery</author>
+      <author>David Carr</author>
+      <author>Marc Byrd</author>
+      <author>Mac Powell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Show me Your glory<br/>Send down Your presence<br/>I want to see Your face<br/>Show me Your glory<br/>Majesty shines about You<br/>I can't go on without You Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I caught a glimpse of Your splendor<br/>In the corner of my eye<br/>The most beautiful thing I've ever seen<br/>And it was like a flash of lightning<br/>Reflected off the sky<br/>And I know I'll never be the same</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I climb down the mountain<br/>And get back to my life<br/>I won't settle for ordinary things<br/>I'm gonna follow You forever<br/>For all of my days<br/>I won't rest 'til I see You again</lines>
+    </verse>
+  </lyrics>
+</song>

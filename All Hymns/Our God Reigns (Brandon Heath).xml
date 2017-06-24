@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:37">
+  <properties>
+    <titles>
+      <title>Our God Reigns</title>
+    </titles>
+    <copyright># 2006 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/Capilano Music, Administered by BMG Music Publishing; non-commercial licensing adm</copyright>
+    <ccliNo>4620550</ccliNo>
+    <authors>
+      <author>Brandon Heath</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>So much holy<br/>So divine<br/>Yours and so much mine<br/>By the morning<br/>Light is thine<br/>Perfect by design</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Mighty to men<br/>Light of the earth<br/>Sending the son<br/>To echo his worth<br/>Breaker of sin<br/>Winner of souls<br/>Every creature will know</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Our God Reigns<br/>Over the Heavens<br/>Over the earth<br/>Our God reigns<br/>Praise His name<br/>All still standing<br/>All that was, all that remains<br/>Our God reigns<br/>(He reigns)</lines>
+    </verse>
+    <verse name="o4">
+      <lines>In devotion<br/>To His bride<br/>Standing by her side<br/>Mighty to men<br/>Light of the earth<br/>Sending the son<br/>To echo his worth<br/>Breaker of sin<br/>Winner of souls<br/>Every creature will know</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:17">
+  <properties>
+    <titles>
+      <title>Nothing Compares</title>
+    </titles>
+    <copyright>© 2001 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/Vandura 2500 Songs, Administered by BMG Music Publishing / Music Services</copyright>
+    <ccliNo>3522776</ccliNo>
+    <authors>
+      <author>Brad Avery</author>
+      <author>David Carr</author>
+      <author>Mac Powell</author>
+      <author>Mark D. Lee</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(But) nothing compares<br/>To the greatness of knowing You Lord<br/>Oh no and nothing compares<br/>To the greatness of knowing You Lord<br/>Oh no</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Well I've heard all the stories<br/>And I've seen all the signs<br/>Witnessed all the glory<br/>And tasted all that's fine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see all the people<br/>Wasting all their time<br/>Building up their riches<br/>For a life that's fine</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I find myself just living for today<br/>'Cause I don't know what<br/>Tomorrow's gonna bring<br/>So no matter if I rise or fall<br/>I'll never be alone woah no<br/>Not alone</lines>
+    </verse>
+  </lyrics>
+</song>

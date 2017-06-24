@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-02-11T14:56:05">
+  <properties>
+    <titles>
+      <title>Heri waendao katika sheria</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Heri waendao katika sheria,waendao katika <br/>sheria ya Bwana x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Heri walio kamili njia zao,waendao katika sheria<br/>ya Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heri wazitiizo shuhuda zake,wamtafutao kwa moyo wote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wewe umetuamuru mausia yako,ili sisi tuyatii tuyatii sana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nigependa njia zangu ziwe thabiti,nizitii amri zako.</lines>
+    </verse>
+  </lyrics>
+</song>

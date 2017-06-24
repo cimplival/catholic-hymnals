@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:25:13">
+  <properties>
+    <titles>
+      <title>Mchunga Wangu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mchunga wangu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mchunga wangu ameniandalia mema yote</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.Bwana ndiye mwenye kuchunga uzima wangu na <br/>malisho yake kwangu ni raha kamili</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Malishoni mwake mabichi ananilaza,<br/>sitakosa kamwe wala sitapungukiwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.Penye maji yake mazuri ya utulivu<br/>ndipo kweli Mungu anaponiburudisha</lines>
+    </verse>
+    <verse name="v6">
+      <lines>4.Ananiongoza pasipo mashaka yeye<br/>Penye njia zake nzuri adili na nyofu</lines>
+    </verse>
+    <verse name="v7">
+      <lines>5.Katika mabonde ya uvuli wa mauti<br/>naam,ninapopita sitaogopa mabaya.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>6.Kwa maana wewe upo pamoja na mimi<br/>gongo na fimbo yako vyanifariji.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>7.Waniandalia vitamu mezani mwako,<br/>nami nitashiba mbele za watesi wangu.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>8.Na kichwani mpangu mafuta umenipaka<br/>na kikombe changu kweli cha jaa memayo</lines>
+    </verse>
+    <verse name="v11">
+      <lines>9.Wema na fadhili za Bwana zimenijia<br/>kwa maisha yangu,mpaka niage dunia</lines>
+    </verse>
+    <verse name="v12">
+      <lines>10.Ninaomba kwake mchungaji wa roho yangu<br/>Na nikae kwake mpaka nyakati za mbali.</lines>
+    </verse>
+  </lyrics>
+</song>

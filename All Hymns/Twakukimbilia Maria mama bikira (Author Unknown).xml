@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:24">
+  <properties>
+    <titles>
+      <title>Twakukimbilia Maria mama bikira</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Twakukimbilia Maria mama bikira mwenye huruma<br/>tutie nguvu ya safari tufike,kwa mwanao Yesu Kristu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angaza njia mama Maria tufike makao ya uzima<br/>giza limeyafunika macho mama Maria<br/>mama Maria twapotea</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tunahitaji msaada wako mama Maria,<br/>mama Maria tuone njia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Safari ni ngumu Maria,shetani mwovu atusumbua<br/>Hatua ni nzito Maria miguu yetu imelegea</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.tupe nguvu Maria ili tusije vunjika moyo<br/>tuwe shupavu na imara,katika safari hii ya roho.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:47">
+  <properties>
+    <titles>
+      <title>The Power Of The Cross</title>
+    </titles>
+    <copyright>2005 Bridge Building Music, Inc. / New Spring / Bethar Mountain Music / First Hand Revelation Music, Administered by Brentwood-Benson Music Publishing, Inc. / Unaffili</copyright>
+    <ccliNo>4658096</ccliNo>
+    <authors>
+      <author>David Moffitt</author>
+      <author>Travis Cottrell</author>
+      <author>Steve Dean</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A lonely hill<br/>A rugged tree<br/>Time stands still and waits for my answer<br/>This sacrifice is calling me to a life<br/>Of total surrender</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The power of the cross is moving in my life<br/>'Cause the power of Your blood has saved me<br/>The power of the cross still draws me to Your side<br/>'Cause the power of Your love has changed me<br/>Oh let my life be lost in the power of the cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord most high<br/>Hope of man<br/>You are my Redeemer and Savior<br/>All my days are in Your hand<br/>All my praise will be Yours forever</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Where mercy was great and grace was free<br/>Where pardon was multiplied to me<br/>Where my burdened soul found liberty<br/>Hide me in the power of the cross</lines>
+    </verse>
+  </lyrics>
+</song>

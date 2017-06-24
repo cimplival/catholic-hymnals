@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:08">
+  <properties>
+    <titles>
+      <title>Live To Worship</title>
+    </titles>
+    <copyright>2002 New Spring / Chips And Salsa Songs / Lemonis Music, Administered by Brentwood-Benson Music Publishing, Inc. / Unaffili</copyright>
+    <ccliNo>3713925</ccliNo>
+    <authors>
+      <author>Scott Krippayne</author>
+      <author>John Lemonis</author>
+      <author>Tony Wood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>We will live to worship<br/>Give You praise with all our hearts<br/>For all our days<br/>Father we want to do what You created us to<br/>We will live to worship You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A simple offering is all that we bring<br/>We give our lives claim You as King<br/>We are Your servants and before You we bow<br/>With ev'ry breath we make this vow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our ev'ry moment is a gift of Your grace<br/>We are all Yours now and always<br/>More than just words O Lord<br/>The cry of our hearts<br/>Is to let our lives speak of how great You are</lines>
+    </verse>
+    <verse name="b1">
+      <lines>For You are worthy<br/>You alone are deserving<br/>You are holy<br/>You alone are deserving</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Holy worthy<br/>Holy worthy Lord<br/>We will live to worship You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:40">
+  <properties>
+    <titles>
+      <title>Seekers Of Your Heart</title>
+    </titles>
+    <copyright>1985 BMG Songs, Inc. / Pamela Kay Music, Administered by BMG Music Publishing / EMI Christian Music Publish</copyright>
+    <ccliNo>10635</ccliNo>
+    <authors>
+      <author>Dick Tunney</author>
+      <author>Melodie Tunney</author>
+      <author>Beverly Darnall</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lord we want to know You<br/>Live our lives to show You<br/>All the love we owe You<br/>We're seekers of Your heart</lines>
+    </verse>
+  </lyrics>
+</song>

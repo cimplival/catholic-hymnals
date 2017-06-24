@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:45:19">
+  <properties>
+    <titles>
+      <title>Ni Heri Kutoa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ni heri zaidi kutoa Ni heri zaidi kutoa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>kuliko kupokea Ni heri zaidi kutoa kuliko kupokea.*2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Ni heri ni heri zaidi kutoa, Ni heri ni heri zaidi kutoa*2  kuliko kupokea)*2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>1.Tunapaswa wote kuwasaidia waliodhaifu, tukikumbuka</lines>
+    </verse>
+    <verse name="v5">
+      <lines>maneno yake mtume paulo, Ni heri kutoa kuliko kupokea</lines>
+    </verse>
+    <verse name="v6">
+      <lines>2.Vitu vyote kweli tumepewa bure, tuvitoe bure,hatuna</lines>
+    </verse>
+    <verse name="v7">
+      <lines>budi kuvirudisha vitu vyote kwake.Ni heri...</lines>
+    </verse>
+    <verse name="v8">
+      <lines>3.Hata kama ndugu unachokidogo,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>usisite nenda vitu vyote ulivyonavyo Mungu ndiye kakupa..</lines>
+    </verse>
+  </lyrics>
+</song>

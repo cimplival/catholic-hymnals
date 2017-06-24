@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:17">
+  <properties>
+    <titles>
+      <title>Mimi Mzabibu Kweli</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mimi mzabibu (wa kweli)<br/>nanyi,<br/>mu matawi yangu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mimi mzabibu wa kweli,<br/>nanyi matawi yangu,<br/>mimi mzabibu,<br/>Kaeni ndani yangu,<br/>nami nikae ndani yenyu,<br/>mimi mzabibu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Asiyekaa ndani yangu<br/>hawezi kuzaa matunda,<br/>mimi mzabibu.<br/>Bila nguvu yangu,<br/>mimi hawezi kufanya<br/>lolote,<br/>mimi mzabibu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mimi mzabibu wa kweli,<br/>na Baba yangu <br/>ni mkulima,<br/>mimi mzabibu.<br/>Tawi lenye kutozaa,<br/>Baba yangu ni mkulima,<br/>mimi mzabibu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tawi linalozaa,<br/>matunda Baba yangu<br/>hulisafisha,<br/>mimi mzabibu.<br/>Msipokaa ndani yangu,<br/>hamwezi zaa matunda,<br/>mimi mzabibu.</lines>
+    </verse>
+  </lyrics>
+</song>

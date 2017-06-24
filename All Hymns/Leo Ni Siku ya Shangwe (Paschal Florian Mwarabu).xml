@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-05-21T04:37:21">
+  <properties>
+    <titles>
+      <title>Leo Ni Siku ya Shangwe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Paschal Florian Mwarabu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Leo ni siku ya shangwe<br/>ulimwenguni kote, <br/>kwani mkombozi Yesu,<br/>kafufuka mzima,<br/>kaburini mle tena hayumo<br/>ameshinda mauti.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wote natushangilie, <br/>tumsifu Mwokozi  wetu,<br/>ameyashinda mauti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ametutoa mashaka,<br/>ametutia nguvu mpya,<br/>ya kumpenda Mungu.</lines>
+    </verse>
+  </lyrics>
+</song>

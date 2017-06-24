@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:42">
+  <properties>
+    <titles>
+      <title>My Savior My God</title>
+    </titles>
+    <comments>
+      <comment>chorus 1(a)
+
+[above are Song Tags with notes imported from                         EasyWorship]</comment>
+    </comments>
+    <copyright>2005 Bridge Building Music, Inc., Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <verseOrder>c1 c1 v1 v2 v3</verseOrder>
+    <ccliNo>4592255</ccliNo>
+    <authors>
+      <author>Aaron Shust</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>My Savior loves<br/>My Savior lives<br/>My Savior's always there for me<br/>My God He was<br/>My God He is<br/>My God is always gonna be</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I am not skilled to understand<br/>What God has willed what God has planned<br/>I only know at His right hand<br/>Stands One who is my Savior</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I take Him at His word and deed<br/>Christ died to save me this I read<br/>And in my heart I find a need<br/>Of Him to be my Savior</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Misc 1<br/>BRIDGE<br/>That He would leave His place on high<br/>And come for sinful man to die<br/>You count it strange so once did I<br/>Before I knew my Savior</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yes living dying let me bring<br/>My strength my solace from this spring<br/>That He who lives to be my King<br/>Once died to be my Savior</lines>
+    </verse>
+  </lyrics>
+</song>

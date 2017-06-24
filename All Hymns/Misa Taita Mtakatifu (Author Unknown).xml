@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:31:52">
+  <properties>
+    <titles>
+      <title>Misa Taita Mtakatifu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mtakatifu Bwana Mungu wetu- ee hosana juu X3<br/>(Mbinguni)X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Utukuzwe Mungu wetu Ee!<br/>Mungu muumba wetu Ee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>mbingu na dunia zimejaa utukufu wako ee! ee! ee!<br/>Ee hosana juu mbinguni</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. Utukuzwe Mungu wetu Ee!<br/>Mungu mkombozi wetu Ee!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>uliangamiza mauti ukaleta uzima mpya ee! ee! ee!<br/>Ee hosana juu mbinguni</lines>
+    </verse>
+    <verse name="v6">
+      <lines>3.Utukuzwe Mungu wetu Ee!<br/>Mungu mfaliji wetu Ee!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ulimtuma Roho  kwetu tuwe sote mwili mmoja<br/>ee! ee! mbinguni<br/>Ee hosana juu mbinguni</lines>
+    </verse>
+  </lyrics>
+</song>

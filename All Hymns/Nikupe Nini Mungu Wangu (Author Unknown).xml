@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:00">
+  <properties>
+    <titles>
+      <title>Nikupe Nini Mungu Wangu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3 v7 v8</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nikupe nini Mungu wangu <br/>Nikupe nini ee Mwokozi <br/>Nikupe nini Bwana wangu cha kukupendeza</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kila nitakachoshika mbona bado ni kidogo <br/>Fadhili unazotenda kwangu mimi naogopa</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ninakuomba Mwokozi nifanyie msamaha na unipokee <br/>Mema unayoyatenda nitafanya nini mimi nikurudishie</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nakutolea mkate toka mmea wa ngano <br/>Nakutolea divai ni tunda la mzabibu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mchana hata siku wewe wanisimamia <br/>Na nikiwa safarini waniepusha ajali</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kama njia sioni Bwana unaniongoza <br/>Na hata nikipotea kwako unanirudisha</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nikiwa na matatizo Bwana hunisaidia <br/>Nikiwa kwenye majonzi Bwana unanifariji</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nitatoa nini mimi kitakachokuwa sawa na fadhili zako <br/>Nitaimba nini mimi niyataje mema yote utendayo kwangu</lines>
+    </verse>
+  </lyrics>
+</song>

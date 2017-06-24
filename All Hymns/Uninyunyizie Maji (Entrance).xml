@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:48">
+  <properties>
+    <titles>
+      <title>Uninyunyizie Maji</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uninyunyizie maji, Bwana.<br/>Uninyunyizie maji, Bwana.<br/>(Unioshe nitakase, kweli,<br/>Niwe mweupe kabisa). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mimi ni mwenye dhambi, Bwana,<br/>Mimi ni mwenye dhambi, Bwana,<br/>(Unioshe nitakase, kweli,<br/>Niwe mweupe kabisa). x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Natamani nije kwako, Bwana,<br/>Natamani nije kwako, Bwana.<br/>(Unioshe nitakase, kweli,<br/>Niwe mweupe kabisa). x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naingia nyumba yako, Bwana.<br/>Naingia nyumba yako, Bwana.<br/>(Unioshe nitakase, kweli,<br/>Niwe mweupe kabisa). x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Niuone uso wako, Bwana.<br/>Niuone uso wako, Bwana.<br/>(Unioshe nitakase, kweli,<br/>Niwe mweupe kabisa). x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nifurahi milele, Bwana,<br/>Nifurahi milele, Bwana. <br/>(Unioshe nitakase, kweli,<br/>Niwe mweupe kabisa). x2</lines>
+    </verse>
+  </lyrics>
+</song>

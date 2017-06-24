@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-11-18T11:04:17">
+  <properties>
+    <titles>
+      <title>Nalifurahi Waliponiambia (Zaburi)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nalifurahi waliponiambia,<br/>na twende twende nyumbani<br/>kwa Bwana. x2<br/>(Twende nyumbani kwa Bwana, <br/>twende nyumbani kwa Bwana, <br/>twende nyumbani kwa Bwana, <br/>na twende  <br/>twende nyumbani kwa Bwana). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Miguu yetu, imesimama,<br/>ndani ya milango <br/>yako Yerusalemu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yerusalemu, uliyejengwa,<br/>kama ule mji <br/>ulioshikamana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Huko ndiko hasa, walikopanda,<br/>kabila la Bwana ushuhuda <br/>kwa Israeli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa maana huko,<br/>viliwekwa viti, vya <br/>hukumu vya enzi ya mbari <br/>ya Daudi.</lines>
+    </verse>
+  </lyrics>
+</song>

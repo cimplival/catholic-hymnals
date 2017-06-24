@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:13">
+  <properties>
+    <titles>
+      <title>I See You</title>
+    </titles>
+    <copyright>©1991 BMG Songs, Inc.(ASCAP), Administered by BMG Music Publishing / Music Services</copyright>
+    <ccliNo>701951</ccliNo>
+    <authors>
+      <author>Rich Mullins</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>And everywhere I go I see You <br/>And everywhere I go I see You <br/>And everywhere I go I see You <br/>And everywhere I go I see You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord You're leading me <br/>With a cloud by day <br/>And then in the night <br/>The glow of a burning flame</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And You take my hand <br/>And You wash it clean <br/>I know the promised land <br/>Is light years ahead of me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the eagle flies <br/>And the rivers run <br/>I look through the night <br/>And I can see the rising sun</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Well the grass will die <br/>And the flowers fall <br/>But Your Word's alive <br/>And it will be after all</lines>
+    </verse>
+  </lyrics>
+</song>

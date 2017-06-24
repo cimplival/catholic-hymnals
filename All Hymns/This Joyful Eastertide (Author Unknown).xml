@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:17:30">
+  <properties>
+    <titles>
+      <title>This Joyful Eastertide</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.This joyful eastertide<br/>Awy with sin and sorrow<br/>My love the crucified</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Has sprung to life this morrow<br/>Had Christ that once was slain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne'er burst his three day prison<br/>Our faith has been in vain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But now hath Christ arisen arisen<br/>arisen arisen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>2.My flesh in hope shall rest<br/>And for a reoson slumber</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Till trump from east to west<br/>Shall wake the dead in number.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>3.Death's flood hath lost his chill<br/>since Jesus crossed the river</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lover of souls from ill<br/>My passing soul deliver</lines>
+    </verse>
+  </lyrics>
+</song>

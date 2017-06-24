@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:19">
+  <properties>
+    <titles>
+      <title>In His Presence</title>
+    </titles>
+    <copyright>1988 BMG Songs, Inc. / Dick And Mel Music / Pamela Kay Music, Administered by BMG Music Publishing / EMI Christian Music Publish</copyright>
+    <ccliNo>18589</ccliNo>
+    <authors>
+      <author>Dick Tunney</author>
+      <author>Melodie Tunney</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>In Your presence there is comfort<br/>In Your presence there is peace<br/>When we seek to know Your heart<br/>We will find such blessed assurance<br/>In Your holy presence Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>In the quiet of this hour<br/>As I kneel before You now<br/>I believe Your promise to be faithful<br/>I don't always understand<br/>What Your perfect will demands<br/>But I've learned to trust You more<br/>In Your presence Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There can be such sweet reward<br/>When we wait upon the Lord<br/>As we take the time<br/>He gives His perfect wisdom<br/>To be found in Him alone<br/>All our deepest secrets known<br/>We're surrounded by His grace<br/>When we seek His face</lines>
+    </verse>
+    <verse name="e1">
+      <lines>In Your presence there is comfort<br/>In Your presence there is peace<br/>When we seek the Father's heart<br/>We will find such blessed assurance<br/>An ever-open door<br/>To know our Savior more<br/>In the presence of our Lord</lines>
+    </verse>
+  </lyrics>
+</song>

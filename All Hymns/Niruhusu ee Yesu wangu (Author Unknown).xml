@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:08">
+  <properties>
+    <titles>
+      <title>Niruhusu ee Yesu wangu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niruhusu Yesu wangu<br/> nijongee meza yako,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>unisamehe dhambi ,<br/>mwokozi uje rohoni mwangu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>uniokoe njoo kwangu ndani<br/> nami nikae ndani yako,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ili nipate amani tele<br/>ndani ya roho yangu nifarijike</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[(wewe Bwana )wewe Bwana<br/> wanijua, (wanijua)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(hata nafsini mwangu)<br/>wewe ndiwe tabibu pekee wa</lines>
+    </verse>
+    <verse name="v7">
+      <lines>roho yangu tena ndiwe <br/>kimbilio langu*2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>1.Tazama Yesu wangu ninajongea<br/> karamu yako, pengine kwako Bwana</lines>
+    </verse>
+    <verse name="v9">
+      <lines>sistahili kuijongea, unihurumie<br/> ee Yesu wangu unisamehe</lines>
+    </verse>
+    <verse name="v10">
+      <lines>2.Hakika kwako Bwana makosa mengi nimeyatenda, ubinadamu wangu siwezi</lines>
+    </verse>
+    <verse name="v11">
+      <lines>kuficha kwako Bwana,</lines>
+    </verse>
+    <verse name="v12">
+      <lines>unihurumie ee Yesu<br/> wangu unisamehe</lines>
+    </verse>
+    <verse name="v13">
+      <lines>3.Ni wazi Yesu wangu unajuua<br/> udhaifu wangu, sina cha kujitetea mbele</lines>
+    </verse>
+    <verse name="v14">
+      <lines>zako ee Yesu wangu,unihurumie ee Yesu wangu unisamehe</lines>
+    </verse>
+  </lyrics>
+</song>

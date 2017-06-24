@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:07">
+  <properties>
+    <titles>
+      <title>Let There Be Love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let there be love<br/>shared among us,<br/>let there be love <br/>in our eyes.<br/>May now your love <br/>sweep this nation. Cause us,<br/>O Lord, to arise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give us a fresh understanding,<br/>brotherly love that is real.<br/>Let there be love shared<br/>among us,<br/>let there be love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let there be peace<br/>shared among us,<br/>let there be peace <br/>in our eyes.<br/>May now your peace <br/>sweep this nation. Cause us,<br/>O Lord, to arise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give us a fresh understanding,<br/>brotherly peace that is real.<br/>Let there be peace shared<br/>among us,<br/>let there be peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let there be hope<br/>shared among us,<br/>let there be hope <br/>in our eyes.<br/>May now your hope <br/>sweep this nation. Cause us,<br/>O Lord, to arise.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Give us a fresh understanding,<br/>brotherly hope that is real.<br/>Let there be hope shared<br/>among us,<br/>let there be hope.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Let there be joy<br/>shared among us,<br/>let there be joy <br/>in our eyes.<br/>May now your joy <br/>sweep this nation. Cause us,<br/>O Lord, to arise.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Give us a fresh understanding,<br/>brotherly joy that is real.<br/>Let there be joy shared<br/>among us,<br/>let there be joy.</lines>
+    </verse>
+  </lyrics>
+</song>

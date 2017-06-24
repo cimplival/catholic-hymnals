@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-12-18T04:22:33">
+  <properties>
+    <titles>
+      <title>Mfalme wa Utukufu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mfalme wa utukufu apate kuingia <br/>mfalme wa utukufu <br/>apate kuingia. x2<br/>Yeye ndiye mfalme yeye ndiye <br/>mfalme ee yeye ndiye mfalme <br/>ee yeye ndiye mtukufu mfalme <br/>wa utukufu apate kuingia. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nchi na vyote viijaazavyo <br/>ni mali ya Bwana, <br/>dunia na wote wakaao <br/>ndani yake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maana ameiweka misingi <br/>yake juu ya bahari,<br/>na juu ya mito <br/>ya maji aliithibitisha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni nani atakayepanda <br/>mlima wa Bwana, <br/>nami atakayesimama <br/>patakatifu pake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atapokea baraka kwa Bwana,<br/>na haki kwa Mungu wa wokovu wake,<br/>hiki ndicho kizazi cha wamtafutao, <br/>wakutafutao ee Mungu wa<br/>Yakobo.</lines>
+    </verse>
+  </lyrics>
+</song>

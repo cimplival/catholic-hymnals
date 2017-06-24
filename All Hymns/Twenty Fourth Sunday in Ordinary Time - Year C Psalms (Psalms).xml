@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:34">
+  <properties>
+    <titles>
+      <title>Twenty Fourth Sunday in Ordinary Time - Year C Psalms</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Psalms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I will arise<br/>and go to my father.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Have mercy on me, O God,<br/>according to your merciful love;<br/>according to your<br/>great compassion,<br/>blot out my transgressions.<br/>Wash me completely<br/>from my iniquity,<br/>and cleanse me from my sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Create a pure heart for me,<br/>O God; renew a steadfast <br/>spirit within me.<br/>Do not cast me away<br/>from your presence;<br/>take not you holy spirit<br/>from me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Lord, open my lips<br/>and my mouth<br/>shall proclaim our praise.<br/>My sacrifice to God,<br/>a broken spirit:<br/>a broken and humbled heart,<br/>O God, you will not spurn.</lines>
+    </verse>
+  </lyrics>
+</song>

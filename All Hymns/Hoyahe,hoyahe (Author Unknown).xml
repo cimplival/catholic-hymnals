@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:06">
+  <properties>
+    <titles>
+      <title>Hoyahe,hoyahe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Hoyahe,hoyahe<br/>Natufurahi siku ya leo,*2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aleluya,hoye.<br/>Tulitukuzeni jina la bwana*2<br/>Hoyahe,hoyahe:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Natufurahi siku ya leo*3<br/>Tulitukuze jina la bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Mungu wetu ndiye baba mfariji<br/>kazi zake zote zinakusifu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.Tumshukuru kwa ajili ya Yesu.<br/>Aliye nasi lake taifa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>4.Tumpe Mungu sifa enzi tukuzo<br/>nguvu na heshima hata milele.</lines>
+    </verse>
+  </lyrics>
+</song>

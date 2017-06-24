@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-18T05:17:44">
+  <properties>
+    <titles>
+      <title>Yamba Yamba</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Yamba Yamba Yamba<br/>Yaweh Ee,<br/>Yahweh Ee Yamba Yamba<br/>Yaweh Ee,<br/>(Yamba Yamba Yaweh Ee). x2<br/>--------------------<br/>Take Take Take <br/>to our Lord,<br/>To our Lord, Take Take <br/>to our Lord, <br/>(Take Take Take to our Lord). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Yamba Yamba Yamba<br/>mampa na beto<br/>Yahweh Ee Yamba Yamba<br/>Yahweh Ee. x2<br/>(Yamba Yamba Yaweh Ee)<br/>----------------------<br/>Take Take Take <br/>the bread to our Lord,<br/>To our Lord, Take Take <br/>to our Lord. x2<br/>(Take Take Take to our Lord)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yamba Yamba Yamba<br/>Vino na beto,<br/>Yahweh Ee Yamba Yamba<br/>Yahweh Ee. x2<br/>(Yamba Yamba Yaweh Ee)<br/>----------------------<br/>Take Take Take <br/> the wine to our Lord,<br/>To our Lord, Take Take <br/>to our Lord. x2<br/>(Take Take Take to our Lord)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yamba Yamba Yamba<br/>Kisue na beto,<br/>Yahweh Ee Yamba Yamba<br/>Yahweh Ee. x2<br/>(Yamba Yamba Yaweh Ee)<br/>------------------------<br/>Take Take Take<br/>our incense to our Lord.<br/>To our Lord, Take Take <br/>to our Lord. x2<br/>(Take Take Take to our Lord)</lines>
+    </verse>
+  </lyrics>
+</song>

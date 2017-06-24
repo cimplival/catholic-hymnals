@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:10:48">
+  <properties>
+    <titles>
+      <title>Jongeeni Mezani</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(Jongeeni mezani kwa Bwana tule mwili na damu yake) X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Mwili na damu ya Bwana Yesu vitupatie ule uzima , uzima (uzima , uzima) wa milele)X2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.Mwili wake Yesu pia damu yake vitayari tushiriki.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. Mwili pia damu yake Bwana Yesu vitupe uzima.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3. Ee Bwana Yesu mimi ni mdhambi nisafishe kwa damuyo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>4. Ee Yesu njoo ndani yangu nikumbushe kukupenda.</lines>
+    </verse>
+  </lyrics>
+</song>

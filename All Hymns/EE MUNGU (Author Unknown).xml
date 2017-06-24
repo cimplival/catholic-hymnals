@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:01">
+  <properties>
+    <titles>
+      <title>EE MUNGU</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EE MUNGU</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tenor.	Ee Mungu, mungu wangu ee Bwana</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All.	Nitakutafuta mapema, nafsi yakuonea kiu x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tenor.	Maana<br/>All.	Maneno yako ni Roho na uzima <br/>Wewe unayo maneno ya uzima wa milee x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>1.	Sop.	 Ee Mungu, Mungu wangu, nitakutafuta mapema,<br/>Nafsi yakuonea kiu, mwili wakuonea shauku,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kwenye nchi kavu yenye uchovu,<br/>Nchi kavu isiyo na maji.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>2.	Tenor.	Ndipo nilikutazama, katika patakatifu,<br/>Nizione nguvu zako, na utukufu wako,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Maana fadhili zako, ni njema kuliko uhai,<br/>Nafsi yangu itakusifu.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>3.	Alto.	Ndipo nitakubariki, wakati mimi naishi,<br/>Nikiinua mikono yangu, nitaliomba jina lako</lines>
+    </verse>
+    <verse name="v10">
+      <lines>,<br/>Kwa utajiri wa karamu, nafsi yangu imeridhika,<br/>Klwa midomo ya kinywa change, nitakusifu wewe.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>4.	Bass.	Wewe ni msaada wangu,<br/>Katika uvuli wa mbawa zako, hupiga kelele kwa furaha.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Nafsi yangu hushikamana, haraka kwako Bwana,<br/>Kwa midomo ya kinywa change, nitakuusifu wewe.</lines>
+    </verse>
+  </lyrics>
+</song>

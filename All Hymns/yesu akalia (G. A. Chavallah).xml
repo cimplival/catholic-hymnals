@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-03-25T15:33:29">
+  <properties>
+    <titles>
+      <title>yesu akalia</title>
+    </titles>
+    <authors>
+      <author>G. A. Chavallah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> 1. Alipokwisha kusema hayo,akakata roho<br/>     yule akida alipoona hayo,akasema<br/>     Huyo hakika alikuwa mwana wa Mungu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yesu akalia kwa sauti kubwa,  <br/>(Akasema,<br/>Baba mikononi mwako naiweka roho yangu)*2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Na makutano yote ya watu,waloshuhudia<br/>   wakafadhaika wakaenda zao,wakiomba<br/>   wakipigapiga vifua kuomba toba</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Yesu akalia kwa sauti kubwa,  <br/>(Akasema,<br/>Baba mikononi mwako naiweka roho yangu)*2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.Na wote waliojuana naye,waloamdamana,<br/>   wakimfuata toka Galilaya.kwa pamoja<br/>   wakasimama wakitazama mambo hayo.<br/>  </lines>
+    </verse>
+    <verse name="c3">
+      <lines>Yesu akalia kwa sauti kubwa,  <br/>(Akasema,<br/>Baba mikononi mwako naiweka roho yangu)*2</lines>
+    </verse>
+  </lyrics>
+</song>

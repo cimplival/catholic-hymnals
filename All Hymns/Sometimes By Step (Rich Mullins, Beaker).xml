@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:55">
+  <properties>
+    <titles>
+      <title>Sometimes By Step</title>
+    </titles>
+    <copyright>1992 BMG Songs, Inc., Administered by BMG Music Publishing</copyright>
+    <ccliNo>915125</ccliNo>
+    <authors>
+      <author>Rich Mullins</author>
+      <author>Beaker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh God You are my God<br/>And I will ever praise You<br/>Oh God You are my God<br/>And I will ever praise You<br/>I will seek You in the morning<br/>And I will learn to walk in Your ways<br/>And step by step You'll lead me<br/>And I will follow You all of my days</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sometimes the night was beautiful<br/>Sometimes the sky was so far away<br/>Sometimes it seemed too steep<br/>So close you could touch it<br/>But your heart would break<br/>Sometimes the morning came too soon<br/>Sometimes the day could be so hard<br/>There was so much work left to do<br/>But so much you'd already done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes I think of Abraham<br/>How one star he saw had been lit for him<br/>He was a stranger in this land<br/>And I am that no less than he<br/>And on this road to righteousness<br/>Sometimes the climb can be steep<br/>I may falter in my steps<br/>But never beyond reach</lines>
+    </verse>
+  </lyrics>
+</song>

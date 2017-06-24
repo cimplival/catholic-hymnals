@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:33">
+  <properties>
+    <titles>
+      <title>Twenty First Sunday in Ordinary Time Year A</title>
+    </titles>
+    <authors>
+      <author>Responsorial Psalm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, <br/>your merciful love is eternal;<br/>discard not the work <br/>of your hands.</lines>
+    </verse>
+  </lyrics>
+</song>

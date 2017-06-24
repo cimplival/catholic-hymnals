@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-17T16:48:24">
+  <properties>
+    <titles>
+      <title>Sacramenti Kubwa</title>
+    </titles>
+    <authors>
+      <author>Adoration</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sakramenti kubwa hiyo<br/>twaheshimu kifudi;<br/>na sheria ya zamani<br/>ikomeshwe na hiyo;<br/>yafichikayo machoni imani<br/>huyaona.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mungu Baba Mungu Mwana<br/>asifiwe kwa shangwe kwa<br/>heshima atukuzwe,<br/>pia aabudiwe<br/>Mungu Roho Mtakatifu vile<br/>sifa apate. Amina.</lines>
+    </verse>
+  </lyrics>
+</song>

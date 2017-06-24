@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:19">
+  <properties>
+    <titles>
+      <title>Thank You Lord</title>
+    </titles>
+    <copyright>1940, 1945 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>16763</ccliNo>
+    <authors>
+      <author>Bessie Sykes</author>
+      <author>Seth Sykes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Thank You Lord for saving my soul<br/>Thank You Lord for making me whole<br/>Thank You Lord for giving to me<br/>Thy great salvation so rich and free</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Some thank the Lord for friends and home<br/>For mercies sure and sweet<br/>But I would praise Him for His grace<br/>In prayer I would repeat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some thank Him for the flow'rs that grow<br/>Some for the stars that shine<br/>My heart is filled with joy and praise<br/>Because I know He's mine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I trust in Him from day to day<br/>I prove His saving grace<br/>I'll sing this song of praise to Him<br/>Until I see His face</lines>
+    </verse>
+  </lyrics>
+</song>

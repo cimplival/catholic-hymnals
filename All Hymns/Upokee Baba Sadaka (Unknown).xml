@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:49">
+  <properties>
+    <titles>
+      <title>Upokee Baba Sadaka</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Upokee Baba sadaka tunaleta,<br/>upokee Baba vipaji vyetu x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ni shukrani zetu, kwako Mungu <br/>wetu (sisi) twasema asante <br/>kwako Mungu wetu,<br/>kwa Baraka zako na neema <br/>nyingi (hivyo) twasema asante <br/>kwako Mungu wetu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ni sadaka safi tunakutolea,<br/>tunajitolea nazo nafsi zetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kazi ya mikono yetu wanadamu, <br/>mazao ya mashamba tunakutolea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baba naleta na mifugo yetu, <br/>tunakushukuru twasema asante.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twaja mbele zako tukinesanesa,<br/>twaushanglia utukufu wako.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tunajikabidhi kwako Bwana Mungu,<br/>utusimamie maishani mwetu.</lines>
+    </verse>
+  </lyrics>
+</song>

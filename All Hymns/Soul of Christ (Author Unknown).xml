@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-12-04T07:44:53">
+  <properties>
+    <titles>
+      <title>Soul of Christ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soul of Christ sanctify me, <br/>Body of Christ save me,<br/>Blood of Christ inebriate me, <br/>Water from the side of Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wash me Passion of Christ,<br/>strengthen me, <br/>O Good Jesus hear me within, <br/>Thy wounds hide me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Permit me not to be <br/>separated from thee, <br/>From the wicked <br/>foe defend me, <br/>At the hour of death call me,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And bid me come unto thee, <br/>That with thy angels <br/>and saints I may praise thee, <br/>Forever and ever, Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

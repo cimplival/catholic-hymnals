@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:13">
+  <properties>
+    <titles>
+      <title>Mambo ya Yesu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mambo ya Yesu Lyrics</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatutaacha kuyanena mambo ya Yesu.<br/>Hatutaacha kuyasimulia matendo yake Kristu *2<br/>(Sisi) Tuliyoyaona na kuyasikia wenyewe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Yesu) Akimwaga damu yake msalabani tukombolewe<br/>Tuliyoyaona na kuyasikia wenyewe<br/>(Hivyo) Maisha yangu na uhai wangu mimi namkabidhi Yesu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amewaponya wenye magonjwa wakawa huru<br/>Akawafufua wafu nao wakawa hai<br/>Ni nani kama Yesu na hakuna aliye kama Yesu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alituachia karamu iliyo kuu<br/>Karamu ya upatanisho na ya upendo<br/>Ni nani kama Yesu na hakuna aliye kama Yesu</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alitoa uhai wake kwa ajili yetu<br/>Akafa kifo cha aibu pale msalabani<br/>Ni nani kama Yesu na hakuna aliye kama Yesu</lines>
+    </verse>
+  </lyrics>
+</song>

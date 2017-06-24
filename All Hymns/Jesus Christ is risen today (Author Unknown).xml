@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:29">
+  <properties>
+    <titles>
+      <title>Jesus Christ is risen today</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Jesus Christ is risen today,Aleluia<br/>Our triumphant holy day,Aleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who did once upon the cross,Aleluia<br/>suffer to redeem our loss,aleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.Hymns of praise then let us sing,Aleluia<br/>Unto Christ our heavenly king,Aleluia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who endured the cross and grave,Aleluia<br/>sinners to redeem and save,Aleluia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.But the pain that He endured,Aleluia<br/>now above the sky,He is king,Aleluia<br/>Where the angels ever sing.Aleluia</lines>
+    </verse>
+  </lyrics>
+</song>

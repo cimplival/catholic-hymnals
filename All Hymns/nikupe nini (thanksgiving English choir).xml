@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-02-18T10:04:34">
+  <properties>
+    <titles>
+      <title>nikupe nini</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>thanksgiving English choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nikupe nini au nikushukuru vipi Bwana<br/>unanipenda pendo nisiloweza kueleza<br/>(Yesu erowerne Yesu erowerne<br/>Yesu eromielne Yesu eromielne gikinda<br/>eromielne gikinda.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ichiworinwa nono jawar (Yesu)<br/>Ichiwo rembikanyo maluoko richo<br/>Giringri kachamo jawar tayudo ngima (Kweli Yesu)<br/>Umenipa mwili wako na damu nimekunywa,<br/>Umenipa kwa upendo bila kitu chochote.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abiro iri romna jawar (Yesu)<br/>Abiro iri kanyo akelo richo<br/>Etiend msalapi ni mondo'ayudi (Yesus wangu)<br/>Nipokee kwako leo, niwe wako daima,<br/>Niongoze maishani popote niendapo.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:42:42">
+  <properties>
+    <titles>
+      <title>Alle alle alle alle luia (Oo)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alle alle alleluia<br/>Alle alle alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oo Alle alle alleluia <br/>Alle alle alle alle luia (Oo)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alle alle alle alle luia<br/>Jesus, Jesus, Jesus is the Way,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Jesus, Jesus is the Truth, (Oo)<br/>Jesus, Jesus, Jesus is the Life</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus is the Way, is the Truth, is the Life (Oo)<br/>Jesus is the Way, is the Truth,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>is the Life<br/>(Oo) Alle alle alleluia....</lines>
+    </verse>
+  </lyrics>
+</song>

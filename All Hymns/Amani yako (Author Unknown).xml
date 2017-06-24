@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:42:50">
+  <properties>
+    <titles>
+      <title>Amani yako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amani yako<br/>Bwana isambae,Bwana mioyoni mwetu,daima milele</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faraja yako</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neema yako</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Huruma yako</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fadhili yako</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hekima yako</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Shukrani  yako</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Furaha yako</lines>
+    </verse>
+  </lyrics>
+</song>

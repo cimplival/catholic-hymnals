@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:12">
+  <properties>
+    <titles>
+      <title>I KNOW HIM WHOM I'VE BELIVED</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know him whom I've believed<br/>I know him whom I've believed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And confident – I am confident<br/>that he is able to guard what has been</lines>
+    </verse>
+    <verse name="v3">
+      <lines>entrusted to me until that day<br/>entrusted to me 'til that day</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O God you have probed me and you know me<br/>You know when I sit and when I stand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glory be to the Father,<br/> and to the Son and to the Holy Spirit</lines>
+    </verse>
+    <verse name="v6">
+      <lines>As it was in the beginning, <br/>is now and ever shall be world without end. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

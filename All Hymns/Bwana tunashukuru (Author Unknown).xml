@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:30">
+  <properties>
+    <titles>
+      <title>Bwana tunashukuru</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana tunakushukuru Bwana tunakushukuru asante sana Bwana  asante sana*2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.Umetulisha mkate na kutunywesha  Bwana tunakushukuru asante sana Bwana  asante sana*2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.Umetulinda mtulinda mchana pia usiku, Bwana tunakushukuru asante sana Bwana  asante sana*2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3.Umetuepusha ajili tutembeapo  Bwana tunakushukuru asante sana Bwana  asante sana*2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4.Umetutia nguvu pia uhai  Bwana tunakushukuru asante sana Bwana  asante sana*2</lines>
+    </verse>
+  </lyrics>
+</song>

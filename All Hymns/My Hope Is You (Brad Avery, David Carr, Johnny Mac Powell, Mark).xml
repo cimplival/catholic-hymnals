@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:41">
+  <properties>
+    <titles>
+      <title>My Hope Is You</title>
+    </titles>
+    <copyright>1997 New Spring / Vandura 2500 Songs / Gray Dot Songs, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>2373672</ccliNo>
+    <authors>
+      <author>Brad Avery</author>
+      <author>David Carr</author>
+      <author>Johnny Mac Powell</author>
+      <author>Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>My hope is You<br/>Show me Your ways<br/>Guide me in truth<br/>In all my days<br/>My hope is You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>To You oh Lord I lift my soul<br/>In You oh God I place my trust<br/>And do not let me be put to shame<br/>Don't let my enemies<br/>Triumph over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am oh Lord filled with Your love<br/>You are oh God my salvation<br/>Well guard my life and rescue me<br/>My broken spirit shouts<br/>My mended heart cries out</lines>
+    </verse>
+  </lyrics>
+</song>

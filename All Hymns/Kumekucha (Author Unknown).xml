@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:46:57">
+  <properties>
+    <titles>
+      <title>Kumekucha</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kumekucha</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kumekucha - ni siku kubwa ya ajabu leo hii<br/>Kumekucha - ni siku ya furaha na amani<br/>(Watu wote- wanameremeta tazama</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wamevaa - mavazi mazuri oneni<br/>Nyuso zao - tabasamu shangwe nderemo na vifijo)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>pokeeni bahati yenye upekee<br/>Kufurahiya pendo lisilo dosari<br/>La mwenyezi Mungu mwema na mkarimu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Heri gani ndugu tumejaliwa leo<br/>Kusimama pamoja tukiwa na hamu<br/>Kuyashuhudia makuu ya leo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tupaze sauti wote watusikie<br/>Watakaoweza wajumuike nasi<br/>Shangwe nderemo chereko na vifijo</lines>
+    </verse>
+  </lyrics>
+</song>

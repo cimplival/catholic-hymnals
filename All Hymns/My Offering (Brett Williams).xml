@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:42">
+  <properties>
+    <titles>
+      <title>My Offering</title>
+    </titles>
+    <copyright>2003 Brett Williams, Administered by Williams, Brett</copyright>
+    <ccliNo>4043285</ccliNo>
+    <authors>
+      <author>Brett Williams</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here in my heart<br/>Forever grateful<br/>Is all my love<br/>Forever faithful<br/>Lord You're all I have all I need all I want</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My dearest friend<br/>My true companion<br/>You took me in<br/>Lost and abandoned<br/>Lord You're all I have all I need all I want</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And this is just a token of devotion<br/>To heaven's love as deep as any ocean</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All my life all my breath every word every step<br/>Every beat of my heart will sing<br/>Every joy every fear every smile every tear<br/>Is the least that my soul can bring<br/>It's my offering</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can't explain<br/>This transformation<br/>But by Your Spirit<br/>I'm awakened<br/>Lord You're all I have all I need all I want</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can't repay<br/>So great a mercy<br/>Poured out each day<br/>But I am learning<br/>Lord You're all I have all I need all I want</lines>
+    </verse>
+  </lyrics>
+</song>

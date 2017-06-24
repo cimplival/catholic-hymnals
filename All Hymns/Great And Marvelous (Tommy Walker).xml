@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:44">
+  <properties>
+    <titles>
+      <title>Great And Marvelous</title>
+    </titles>
+    <comments>
+      <comment>slide (vamp)
+
+[above are Song Tags with notes imported from                         EasyWorship]</comment>
+    </comments>
+    <copyright>2001 WeMobile Music / Bridge Building Music, Inc., Administered by WeMobile Music / Brentwood-Benson Music Publishing</copyright>
+    <ccliNo>3715387</ccliNo>
+    <authors>
+      <author>Tommy Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Great and marvelous are all Your works oh Lord<br/>King of the ages we give You praises<br/>Who will not fear You or glorify Your name<br/>We give You all our praise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All of the nations will worship before Thee<br/>For You have revealed Your righteous<br/>Deeds to us<br/>You are the only one who is holy<br/>Who will not fear You and who will not praise<br/>Your holy name</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Who will not fear You and who will not praise<br/>Who will not glorify Your awesome name<br/>Who not celebrate all of Your ways<br/>Almighty God</lines>
+    </verse>
+  </lyrics>
+</song>

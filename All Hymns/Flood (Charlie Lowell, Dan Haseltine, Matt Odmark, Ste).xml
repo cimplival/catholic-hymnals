@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:27">
+  <properties>
+    <titles>
+      <title>Flood</title>
+    </titles>
+    <copyright>1995 Pogostick Music / Bridge Building Music, Inc., Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>1848741</ccliNo>
+    <authors>
+      <author>Charlie Lowell</author>
+      <author>Dan Haseltine</author>
+      <author>Matt Odmark</author>
+      <author>Ste</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>But if I can't swim<br/>After forty days<br/>And my mind is crushed<br/>By the crashing waves<br/>Lift me up so high<br/>That I cannot fall<br/>Lift me oh woh</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Rain rain on my face<br/>Hasn't stopped raining for days<br/>My world is a flood<br/>Slowly I've become one with the mud</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Downpour on my soul<br/>Splashing in the ocean<br/>I'm losing control<br/>Dark sky all around<br/>Can't feel my feet<br/>Touching the ground</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lift me up<br/>When I'm falling<br/>Lift me up<br/>When I'm weak and I'm dying<br/>Lift me up<br/>I need You to hold me<br/>Lift me up<br/>And keep me from drowning again</lines>
+    </verse>
+  </lyrics>
+</song>

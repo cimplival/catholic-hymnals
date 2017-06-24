@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:46">
+  <properties>
+    <titles>
+      <title>Crown</title>
+    </titles>
+    <copyright># 2006 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/J'Dub Music (ASCAP)/Bridge, Administered by BMG Music Publishing; non-commercial licensing adm</copyright>
+    <verseOrder>v1 c1 v2 v1</verseOrder>
+    <ccliNo>4708630</ccliNo>
+    <authors>
+      <author>John Waller</author>
+      <author>Matt Adkins</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord forgive us<br/>For the things we’ve placed above you<br/>Lord we’re sorry <br/>For the plans we’ve placed before you</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Who could wear this but you?<br/>Who could bear the weight<br/>Of your glory and truth ...  so we</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Crown you with many crowns<br/>We the created, crown you creator now<br/>We bow to the only God<br/>of all creation, no other worthy of a crown</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God, please help us<br/>For our enemy is raging<br/>God, we’re weak but<br/>Our spirits are willing</lines>
+    </verse>
+  </lyrics>
+</song>

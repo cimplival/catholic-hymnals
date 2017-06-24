@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:07">
+  <properties>
+    <titles>
+      <title>Let Your Living Water Flow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Jimmy Swaggart</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let Your living water <br/>flow over my soul,<br/>Let your Holy Spirit <br/>come and take control,<br/>Of every situation that <br/>has troubled my mind,<br/>All my cares and burdens <br/>on to you I roll.<br/>Father, Father, Father.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give your life to Jesus, <br/>let Him fill your soul,<br/>Let Him take you in His arms<br/> and make you whole,<br/>As you give your life to Him,<br/> He'll set you free,<br/>You will live and reign <br/>with Him eternally.<br/>Jesus, Jesus, Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come now Holy Spirit <br/>and take control,<br/>Hold me in your loving arms <br/>and make me whole,<br/>Wipe away all doubt and fear <br/>and take my pride,<br/>Draw me to your love <br/>and keep me by your side.<br/>Spirit, Spirit, Spirit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let your living water <br/>flow over my soul<br/>Let your Holy spirit come <br/>and take control,<br/>Of every situation that <br/>has troubled my mind,<br/>All my cares and burdens <br/>onto you I roll.<br/>Father, Jesus, Spirit.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:48">
+  <properties>
+    <titles>
+      <title>Sing Alleluia</title>
+    </titles>
+    <copyright>2002 New Spring / Never Say Never Songs / Meaux Mercy / Blue Raft Music, Administered by Brentwood-Benson Music Publishing, Inc. / EMI Chri</copyright>
+    <ccliNo>3493025</ccliNo>
+    <authors>
+      <author>Steve Hindalong</author>
+      <author>Marc Byrd</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sing alleluia sing alleluia<br/>Praise the Father above<br/>Sing alleluia sing alleluia<br/>Sing alleluia<br/>For His infinite love<br/>Sing alleluia</lines>
+    </verse>
+    <verse name="v1">
+      <lines>All creatures of our God and King<br/>Lift up your voice and with us sing<br/>Sun moon and stars rejoice on high<br/>Praise to the Lord of light divine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise to the Giver of good things<br/>Merciful Father holy King<br/>Join with the angels sing out loud<br/>Praise Him who reigns above the clouds</lines>
+    </verse>
+    <verse name="b1">
+      <lines>O praise Him<br/>When the morning comes<br/>Alleluia<br/>For the rising sun<br/>O praise Him<br/>When the day is done<br/>Alleluia<br/>Praise the Lord of love<br/>O praise Him<br/>Alleluia alleluia alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

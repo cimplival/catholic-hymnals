@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:03:46">
+  <properties>
+    <titles>
+      <title>Pokea Ee Baba</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Pokea ee Baba <br/>vipaji vyetu hivi,<br/>vitakase Bwana uvibariki. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fedha tunatoa mikononi<br/>mwako,<br/>zitakase Bwana uzibariki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mazao ya shamba <br/>twayaleta kwako,<br/>yatakase Bwana uyabariki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mkate divai tunaleta kwako,<br/>vitakase Bwana uvibariki,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na sisi wenyewe twajitoa kwako,<br/>tutakase Bwana utubariki.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Atukuzwe Baba na Mwana na roho,<br/>mwanzo hata sasa milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

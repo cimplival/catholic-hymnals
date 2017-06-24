@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:46:53">
+  <properties>
+    <titles>
+      <title>King Of Glory</title>
+    </titles>
+    <copyright>2000 New Spring / Vandura 2500 Songs, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>3118867</ccliNo>
+    <authors>
+      <author>Brad Avery</author>
+      <author>David Carr</author>
+      <author>Johnny Mac Powell</author>
+      <author>Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>His name is Jesus precious Jesus<br/>Lord Almighty King of my heart<br/>King of glory</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Who is this King of glory<br/>That pursues me with His love<br/>And haunts me with each hearing<br/>Of His softly spoken words<br/>My conscience a reminder<br/>Of forgiveness that I need<br/>Who is this King of glory<br/>Who offers it to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is this King of angels<br/>O blessed Prince of Peace<br/>Revealing things of heaven<br/>And all its mysteries<br/>My spirit's ever longing<br/>For His grace in which to stand<br/>Who is this King of glory<br/>Son of God and Son of Man</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is this King of glory<br/>With strength and majesty<br/>And wisdom beyond measure<br/>The gracious King of kings<br/>The Lord of earth and heaven<br/>The Creator of all things<br/>He is the King of glory<br/>He is ev'rything to me</lines>
+    </verse>
+  </lyrics>
+</song>

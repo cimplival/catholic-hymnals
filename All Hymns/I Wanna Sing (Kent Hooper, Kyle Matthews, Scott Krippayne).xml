@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:14">
+  <properties>
+    <titles>
+      <title>I Wanna Sing</title>
+    </titles>
+    <copyright>1999 BMG Songs, Inc. / Above The Rim Music / Kent Hooper Music, Administered by BMG Music Publishing / Integrated Copyright Group,</copyright>
+    <ccliNo>2984078</ccliNo>
+    <authors>
+      <author>Kent Hooper</author>
+      <author>Kyle Matthews</author>
+      <author>Scott Krippayne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I wanna sing of Your mercy<br/>I wanna sing of Your love<br/>And tell the world I'm grateful<br/>For everything that You have done<br/>I wanna sing of Your kindness<br/>Wanna share the good news<br/>As long as I can sing<br/>I wanna sing about You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Grace so amazing<br/>I can hardly understand<br/>How You forgive me<br/>And accept me as I am<br/>I can't believe the way<br/>You work in my life<br/>I would be crazy<br/>If I kept this all inside</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hope for tomorrow<br/>And a passion for today<br/>Joy in the sorrow<br/>'Cause You're with me all the way<br/>Oh and You gave Your life<br/>To show that You care<br/>This is the music<br/>That I want so much to share</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I want to make a difference<br/>Want to rise above the noise<br/>With the kind of words I choose to use<br/>Each time I lift my voice</lines>
+    </verse>
+  </lyrics>
+</song>

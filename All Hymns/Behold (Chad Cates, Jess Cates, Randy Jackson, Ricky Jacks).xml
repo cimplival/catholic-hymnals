@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:11">
+  <properties>
+    <titles>
+      <title>Behold</title>
+    </titles>
+    <copyright># 2004 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/Jess Cates Music /Evident, Administered by BMG Music Publishing; non-commercial licensing adm</copyright>
+    <ccliNo>4439868</ccliNo>
+    <authors>
+      <author>Chad Cates</author>
+      <author>Jess Cates</author>
+      <author>Randy Jackson</author>
+      <author>Ricky Jacks</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Behold the lamb <br/>Who was scorned <br/>Who was mocked<br/>Who was abandoned<br/>Behold the Lamb<br/>Who was crushed <br/>Who was slain<br/>Who was broken</lines>
+    </verse>
+    <verse name="o2">
+      <lines>By Your wounds we are healed<br/>Hallelujah for the blood that was spilled</lines>
+    </verse>
+    <verse name="o3">
+      <lines>You alone <br/>Are worthy<br/>Are worthy to be praised<br/>You alone <br/>Are worthy<br/>Are worthy to be praised</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Behold the Lamb <br/>Who was raised<br/>Who’s alive<br/>Who has overcome<br/>Behold the Lamb who is here<br/>Who’s at work<br/>Who’s among us</lines>
+    </verse>
+    <verse name="o5">
+      <lines>Glory be to the Son<br/>Hallelujah for the things You have done Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

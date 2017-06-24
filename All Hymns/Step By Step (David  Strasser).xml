@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:05">
+  <properties>
+    <titles>
+      <title>Step By Step</title>
+    </titles>
+    <copyright>1991 BMG Songs, Inc., Administered by BMG Music Publishing</copyright>
+    <ccliNo>696994</ccliNo>
+    <authors>
+      <author>David  Strasser</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O God You are my God<br/>And I will ever praise You<br/>O God You are my God<br/>And I will ever praise You<br/>I will seek You in the morning<br/>And I will learn to walk in Your ways<br/>And step by step You'll lead me<br/>And I will follow You all of my days</lines>
+    </verse>
+  </lyrics>
+</song>

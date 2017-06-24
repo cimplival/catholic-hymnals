@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:58:07">
+  <properties>
+    <titles>
+      <title>Our Lady of Mercy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana tuhurumie X2 <br/>Bwana tuhurumie sisi wakosefu X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kristu tuhurumie X2<br/>Kristu tuhurumie sisi wakosefu X2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana tuhurumie X2<br/>Bwana tuhurumie sisi wakosefu X2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Utukutu kwa Mungu Mbinguni <br/>Utukufu kwa Mungu Mbinguni na Amani duniani</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kwao watu, watu. Kwa watu wenye mapenzi mema.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>1. Tunakusifu, twakuheshimu, twakuabudu, twakutukuza,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>twakushukuru Mfalme wa mbingu, Mwana wa pekee Mwana wa Baba Bwana.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>2. Unayeondoa makosa yetu, tuhurumie, tusikilize</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kuume kwa Baba unapoketi, mtakatifu mkuu tuhurumie Bwana.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>3. Pamoja na Roho Mtakatifu, ndani ya Baba unatrukuzwa.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mungu mmoja anayeishi, ndiye mtawala milele yote Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

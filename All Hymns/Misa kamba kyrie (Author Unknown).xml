@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:26">
+  <properties>
+    <titles>
+      <title>Misa kamba kyrie</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BWANA TUHURUMIE</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana tuhurumie ee Bwana tuhurumie ee Bwana ee Bwana ee Bwana tuhurumie X2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kristu tuhurumie ee Kristu tuhurumie X3</lines>
+    </verse>
+    <verse name="v4">
+      <lines>UTUKUFU</lines>
+    </verse>
+    <verse name="v5">
+      <lines>1. Utukufu juu kwa Mungu Mbinguni.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na Amani duniani kwa watu wa mapenzi wenye mapenzi mema.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tunakusifu (Baba) tunakuheshimu, tunakuabudu (Baba) tunakutukuza X2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>2. Baba tunakushukuru kwa ajili  ya utukufu utukufu  wako mkuu.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>3. Ewe Mungu ni mfalme wa Mbinguni Mungu Baba, Baba ndiwe Mwenyezi.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>4. Ewe Bwana Yesu Kristu ndiye Mwana wake Mungu ndiwe mwana wa pekee.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>5. Ewe Bwana  Mungu  Mwana kondoo wake Mungu mwana wake Baba.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>6. Ewe mwenye kuondoa zetu dhambi za dunia Bwana utuhurumie.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>7. Ewe mwenye kuondoa zetu dhambi za dunia ombi letu pokea.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>8. Ewe Mwenye kuketi kuume kwake Baba ewe utuhurumie.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>9. Ni kwa kuwa ndiwe uliye pekee yako mtakatifu Bwana Yesu Kristu.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>10. Na pamoja naye Roho Mtakatifu katika utukufu wa Mungu Baba.</lines>
+    </verse>
+  </lyrics>
+</song>

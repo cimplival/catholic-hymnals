@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-03-19T08:55:08">
+  <properties>
+    <titles>
+      <title>Third Sunday of Lent Year A</title>
+    </titles>
+    <authors>
+      <author>Responsorial Psalm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O that today you would<br/>listen to  His voice!<br/>Harden not your hearts.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:19">
+  <properties>
+    <titles>
+      <title>In Christ Alone</title>
+    </titles>
+    <copyright>1990 Paragon Music Corporation, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>841440</ccliNo>
+    <authors>
+      <author>Don Koch</author>
+      <author>Shawn Craig</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>In Christ alone I place my trust<br/>And find my glory in the power of the cross<br/>In ev'ry victory let it be said of me<br/>My source of strength my source of hope<br/>Is Christ alone</lines>
+    </verse>
+    <verse name="v1">
+      <lines>In Christ alone will I glory<br/>Though I could pride myself in battles won<br/>For I've been blessed beyond measure<br/>And by His strength alone I overcome<br/>Oh I could stop and count successes<br/>Like diamonds in my hand<br/>But those trophies could not equal<br/>To the grace by which I stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Christ alone will I glory<br/>For only by His grace I am redeemed<br/>And only His tender mercy<br/>Could reach beyond my weakness to my need<br/>Now I seek no greater honor<br/>Than just to know Him more<br/>And to count my gains<br/>But losses to the glory of my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

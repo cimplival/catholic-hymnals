@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:07">
+  <properties>
+    <titles>
+      <title>Let There Be Praise</title>
+    </titles>
+    <copyright>1985 BMG Songs, Inc. / Pamela Kay Music, Administered by BMG Music Publishing / EMI Christian Music Publish</copyright>
+    <ccliNo>20670</ccliNo>
+    <authors>
+      <author>Dick Tunney</author>
+      <author>Melodie Tunney</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Let there be praise<br/>Let there be joy in our hearts<br/>Sing to the Lord<br/>Give Him the glory<br/>Let there be praise<br/>Let there be joy in our hearts<br/>Forevermore let His love fill the air<br/>And let there be praise<br/>Let there be praise</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He inhabits the praise of His people<br/>And dwells deep within<br/>The peace that He gives none can equal<br/>His love it knows no end<br/>So lift your voices with gladness sing<br/>Proclaim through all the earth<br/>That Jesus Christ is King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the Spirit of God is within us<br/>We will overcome<br/>In our weakness His strength will defend us<br/>When His praise is on our tongue<br/>So lift your voices with gladness sing<br/>Proclaim through all the earth<br/>That Jesus Christ is King</lines>
+    </verse>
+  </lyrics>
+</song>

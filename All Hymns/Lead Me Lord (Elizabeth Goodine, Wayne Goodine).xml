@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:05">
+  <properties>
+    <titles>
+      <title>Lead Me Lord</title>
+    </titles>
+    <copyright>1994 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>1609045</ccliNo>
+    <authors>
+      <author>Elizabeth Goodine</author>
+      <author>Wayne Goodine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lead me Lord I will follow<br/>Lead me Lord I will go<br/>You have called me I will answer<br/>Lead me Lord I will go</lines>
+    </verse>
+    <verse name="v1">
+      <lines>It's hard to take the first step<br/>When I don't know the way<br/>Each turn is so uncertain<br/>I learn to walk by faith<br/>But You gave me a promise<br/>That You would never leave<br/>You will lead and guide me<br/>Oh Lord I do believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your plans for me are perfect<br/>I never need to fear<br/>For though at times I feel alone<br/>I know that You are near<br/>My heart just wants to follow<br/>I'm willing to obey<br/>Take my hand and lead me<br/>I'll follow all the way</lines>
+    </verse>
+    <verse name="e1">
+      <lines>You have called me I will answer<br/>Lead me Lord I will go<br/>You have called me I will answer<br/>Lead me Lord Lord I will go<br/>Lead me Lord</lines>
+    </verse>
+  </lyrics>
+</song>

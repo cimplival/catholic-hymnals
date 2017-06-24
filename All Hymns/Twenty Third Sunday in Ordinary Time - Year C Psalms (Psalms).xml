@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:40">
+  <properties>
+    <titles>
+      <title>Twenty Third Sunday in Ordinary Time - Year C Psalms</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Psalms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O Lord,, you have been<br/>our refuge,<br/>from generation to generation.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You turn man back to dust,<br/>and say,<br/>"Return, O children of men."<br/>To your eyes a thousand years<br/>are like yesterday,<br/>come and gone,<br/>or like a watch in the night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You sweep them away<br/>like a dream,<br/>like grass which is fresh<br/>in the morning.<br/>In the morning in sprouts<br/>and its fresh; by evening<br/>it withers and fades.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then teach us to number<br/>our days,<br/>that we may gain wisdom<br/>of heart.<br/>Turn back, O Lord!<br/>How long?<br/>Show pity to your servants.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At dawn, fill us with<br/>your merciful love; we shall<br/>exult and rejoice all our days.<br/>Let the favour of the Lords<br/>our God be upon us; give<br/>success to the work of our hands.<br/>O give success to the<br/>work of our hands.</lines>
+    </verse>
+  </lyrics>
+</song>

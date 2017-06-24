@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-04-08T13:11:07">
+  <properties>
+    <titles>
+      <title>kwa ujira wa dhambi</title>
+    </titles>
+    <authors>
+      <author type="words">C.Chocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 .kwa ujira wa dhambi, ulitundikwa msalabani<br/>    ukafa kifo cha aibu, utuhurumie Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. kwa ujira wa dhambi,( ukatolewa kwa pilato,)*2<br/>    utuhurumie bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. kwa ujira wa dhambi, (ulitiwa miiba kichwani,)*2<br/>    utuhurumie bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. kwa ujira wa dhambi, (ulipigwa kwa mijeledi,)*2<br/>    utuhurumie bwana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. kwa ujira wa dhambi, (ulitukanwa matusi,)*2<br/>    utuhurumie bwana.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. kwa ujira wa dhambi, (ukachomwa ubavu wako,)*2<br/>    utuhurumie bwana.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7. kwa ujira wa dhambi, (ulinyanyaswa kama mwizi,)*2<br/>    utuhurumie bwana.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8. kwa ujira wa dhambi, (ulikufa kwa kutundikwa,)*2<br/>    utuhurumie bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

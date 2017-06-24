@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:45">
+  <properties>
+    <titles>
+      <title>Great Light Of The World</title>
+    </titles>
+    <copyright>2002 New Spring / Appstreet Music, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>3920158</ccliNo>
+    <authors>
+      <author>Bebo Norman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O Great Light of the world<br/>Fill up my soul<br/>I'm half a man here<br/>So come make me whole<br/>O Great Light of the world<br/>Come to impart<br/>The light of Your grace<br/>To fill up my heart</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sometimes at night<br/>When I am afraid<br/>I cover my eyes<br/>And I cover my shame<br/>So here in the dark<br/>Broken apart<br/>Come with Your light<br/>And fill up my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The wind of this world<br/>Can push us around<br/>Folding us up<br/>Backing us down<br/>But here in the dark<br/>I'm not alone<br/>So come with Your strength<br/>And carry me home</lines>
+    </verse>
+  </lyrics>
+</song>

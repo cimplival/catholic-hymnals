@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:07:45">
+  <properties>
+    <titles>
+      <title>Roho Ya Yesu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ROHO YA YESU</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Roho ya Kristu initakase.<br/>Mwili wa Kristu uniokoe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Damu ya Kristu inichangamshe.<br/>Maji ya ubavu wa Kristu yanioshe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mateso ya Kristu nguvu yanizidishie.<br/>Ee Yesu Mwema, unisikilize</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Katika madonda yako unifiche.<br/>Usikubali nitengane nawe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na adui mwovu unikinge.<br/>Saa ya kufa kwangu uniite.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Uniamuru kwako nije.<br/>Na watakatifu wako nikutukuze</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Milele na milele. Amina</lines>
+    </verse>
+  </lyrics>
+</song>

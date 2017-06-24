@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:03">
+  <properties>
+    <titles>
+      <title>Ee Mungu Nitakutafuta (II)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Mungu wangu <br/>nitakutafuta mapema <br/>(Bwana) nafsi yangu <br/>(Bwana) inakuonea kiu <br/>(Mungu wangu) x2.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mwili wangu <br/>wakuonea shauku, <br/>katika nchi <br/>kame na uchovu isiyo <br/>na maji.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ndivyo hivyo nilivyo <br/>kutazama katika <br/>patakatifu,<br/> ni zione nguvu zako <br/>na utakatifu wako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nidiyo hivyo nitakavyo <br/>kubariki maadmu ni hai, <br/>kwa jina lako nitainua <br/>mikono yako.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maana wewe umekuwa  <br/>msada wangu,  <br/>uvulini mwa mabawa zako <br/>nitashangilia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nafsi yangu inakuandama sana, <br/>mkono wako<br/>wakuume unanitegemeza.</lines>
+    </verse>
+  </lyrics>
+</song>

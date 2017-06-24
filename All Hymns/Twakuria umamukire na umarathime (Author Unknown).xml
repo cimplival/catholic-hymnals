@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:24">
+  <properties>
+    <titles>
+      <title>Twakuria umamukire na umarathime</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moe - Moe, moe, ee,<br/>Twakuria umamukire na umarathime X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Mugate witu Ngai twakutehera</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Divai itu Ngai twekutehera</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Magetha Maitu Ngai twakutehera</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Aciari aitu Ngai twekutehera</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. Aciari aitu Ngai twakutehera</lines>
+    </verse>
+    <verse name="v7">
+      <lines>6. Naciana citu Ngai twakutehera</lines>
+    </verse>
+    <verse name="v8">
+      <lines>7. Mathomo maitu Ngai twakutehera</lines>
+    </verse>
+    <verse name="v9">
+      <lines>8. Muhiki na Muhikania twakutehera</lines>
+    </verse>
+    <verse name="v10">
+      <lines>9. Arata aitu Ngai twakutehera</lines>
+    </verse>
+  </lyrics>
+</song>

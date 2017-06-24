@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:38">
+  <properties>
+    <titles>
+      <title>Close</title>
+    </titles>
+    <copyright>2001 New Spring / Jess Cates Music, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>3477670</ccliNo>
+    <authors>
+      <author>Jess Cates</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Draw me near to where You are<br/>And lead me Lord direct my heart<br/>'Cause I want to be<br/>Where You need me most<br/>Draw me bring me close</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I come before You God<br/>I toss my flesh aside<br/>So You can use me<br/>I strip my soul down bare<br/>Shout to You this prayer<br/>Please work through me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kick down all my walls<br/>Come with Your wrecking ball<br/>So I can see You<br/>Give me ears to hear<br/>Your voice so loud and clear<br/>Lord I need You</lines>
+    </verse>
+  </lyrics>
+</song>

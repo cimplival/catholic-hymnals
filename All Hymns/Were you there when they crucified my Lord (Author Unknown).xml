@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:52:09">
+  <properties>
+    <titles>
+      <title>Were you there when they crucified my Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Were you there when they crucified my Lord?*2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh sometimes it causes me to tremble( tremble*2)<br/>were you there when they crucified my Lord?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Were you there when they nailed Him on a tree?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Were you there when they pierced Him in the side?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>were you there when the sun refuserd to shine?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Were you there when they laid Him in the tomb?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Were you there when He rose out from the Tomb?</lines>
+    </verse>
+  </lyrics>
+</song>

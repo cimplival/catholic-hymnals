@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-28T13:56:32">
+  <properties>
+    <titles>
+      <title>I've a Message from the Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Look and live, Look and live, <br/>O sinner, live, (Look and live)<br/>Look to Jesus now and live,<br/>"Tis recorded in His word, Hallelujah!<br/>It is only that you look and live.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I've a message from the Lord, Hallelujah<br/>The message unto you I'll give,<br/>'Tis recorded in His word, Hallelujah,<br/>It is only that you look and live.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've a message full of love, Hallelujah,<br/>A message, O my friend for you,<br/>'Tis a message from above, Hallelujah<br/>Jesus said it and I know 'tis true.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Life is offered unto you, Hallelujah!<br/>Eternal life your soul shall have;<br/>If you only look to Him, Hallelujah!<br/>Look to Jesus who alone can save.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will tell you how I came, Hallelujah,<br/>To Jesus, when He made me whole;<br/>'Twas believing on His name, Hallelujah,<br/>I trusted and He saved my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

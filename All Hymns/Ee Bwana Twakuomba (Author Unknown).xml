@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T18:55:07">
+  <properties>
+    <titles>
+      <title>Ee Bwana Twakuomba</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana, twakuomba, <br/>pokea sadaka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.Ya divai na ya mkate, nyoyo zetu upokee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.Ya matendo na mawazo, nia zetu upokee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3.Ya Abeli iwe mfano, sadaka hii upendeze</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4.Mikononi mwake padre ni sadaka yetu sote</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5.Zigeuze Mwili , damu ya Mwanao Alterini.</lines>
+    </verse>
+  </lyrics>
+</song>

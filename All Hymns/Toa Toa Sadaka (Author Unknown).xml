@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:19:54">
+  <properties>
+    <titles>
+      <title>Toa Toa Sadaka</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Toa, toa sadaka yako, umtolee Bwana Mungu wako X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Ulicho nacho ewe mpe Bwana<br/>Sadaka yako ewe mpe Bwana</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ukarimu wako  ewe mpe Bwana<br/>Uhai wako ewe mpe Bwana</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Maisha yako ewe mpe Bwana<br/>Shukrani yako ewe mpe Bwana</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Ujana wako ewe- mpe Bwana<br/>Usichana wako ewe mpe Bwana</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. Uzee wako ewe mpe Bwana<br/>Uvulana wako ewe mpe Bwana</lines>
+    </verse>
+    <verse name="v7">
+      <lines>6. Matendo yako ewe mpe Bwana<br/>Mateso yako ewe mpe Bwana</lines>
+    </verse>
+  </lyrics>
+</song>

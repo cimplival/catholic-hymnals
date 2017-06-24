@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:32">
+  <properties>
+    <titles>
+      <title>Twenty Fifth Sunday in ordinary time Year C</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Responsorial Psalm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Praise the Lord, <br/>who raises the poor <br/>from the dust.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Praise, O servants of the Lord,<br/>praise the name of the Lord!<br/>May the name of the Lord<br/>be blest, <br/>both now and forevermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>High above all nations is the Lord,<br/>above the heavens his glory,<br/>Who is like the Lord, our God. <br/>who dwells on high,<br/>who lowers himself to look down<br/>upon heaven and earth?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the dust<br/>he lifts up the lowly,<br/>from the ash heap <br/>he raises the poor,<br/>to set them in the company<br/>of princes, yes, <br/>with the princes<br/>of his people.</lines>
+    </verse>
+  </lyrics>
+</song>

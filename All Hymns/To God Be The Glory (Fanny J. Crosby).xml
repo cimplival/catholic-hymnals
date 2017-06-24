@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:09">
+  <properties>
+    <titles>
+      <title>To God Be The Glory</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Fanny J. Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Praise the Lord! Praise the Lord!<br/>Let the earth hear His voice!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Praise the Lord! Praise the Lord!</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Let the people rejoice!<br/>O come to the Father</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Through Jesus the Son;</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>And give Him the glory,<br/>Great things He hath done!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>To God be the glory!<br/>Great things He hath done!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>So lov'd He the world<br/>That He gave us His Son,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Who yielded His life<br/>An atonement for sin,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>And open'd the lifegate<br/>That all may go in.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O perfect redemption, the purchase of blood!<br/>To every believer the promise of God;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The vilest offender who truly believes,<br/>That moment from Jesus a pardon receives.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Great things He hath taught us,<br/>Great things He hath done,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And great our rejoicing through Jesus the Son:<br/>But purer and higher and greater will be</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Our wonder, our worship, when Jesus we see!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:39">
+  <properties>
+    <titles>
+      <title>Twenty Sixth Sunday in ordinary time</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Responsorial Psalm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>My soul,<br/>give praise to the Lord!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>It is the Lord<br/>who preserves fidelity forever,<br/>who does justice<br/>to those who are oppressed.<br/>It is he who gives bread <br/>to the hungry,<br/>the Lord who sets prisoners free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is the Lord who opens<br/>the eyes of the blind,<br/>the Lord who raises up those<br/>who are bowed down,<br/>It is the Lord who loves the just,<br/>the Lord who protects the stranger.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord upholds the orphan<br/>and the widow,<br/>but thwarts the path of the wicked.<br/>The Lord will reign forever,<br/>the God of Sion from age to age.</lines>
+    </verse>
+  </lyrics>
+</song>

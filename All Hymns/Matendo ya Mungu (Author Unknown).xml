@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:15">
+  <properties>
+    <titles>
+      <title>Matendo ya Mungu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BIBLE PROCESSION: Matendo ya Mungu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>{Nayaleta mbele yenu matendo ya Mungu <br/>Nayasimulia wazi matendo ya Mungu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>kwa sauti tamu ni matendo ya Mungu <br/>Mwendo wa kunesa ni matendo ya Mungu yasikieni } 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Farao alipokuwa mgumu, <br/>Fimbo ya Musa ikawa nyoka hatari, ona</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bahari ikasimama ukuta, <br/>Naye israeli akapita pakavu, ona</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kina Shedraki walipochomwa moto <br/>Wakatembea huku na kule wazima, ona</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jiwe kubwa kaburini kwa Yesu, <br/>Likampisha akatoka hai kama mwanzo, ona</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nyimbo hizi na midundo ni vyake <br/>Asifiwe na ahimidiwe milele, ona</lines>
+    </verse>
+  </lyrics>
+</song>

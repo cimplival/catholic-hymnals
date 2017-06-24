@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:46">
+  <properties>
+    <titles>
+      <title>Undone</title>
+    </titles>
+    <copyright>2003 Coomesietunes / Jason Ritchie Music / Brett Williams, Administered by The Copyright Company / Unaffiliated Admin / Willi</copyright>
+    <ccliNo>4403667</ccliNo>
+    <authors>
+      <author>Brett Williams</author>
+      <author>Jason Ritchie</author>
+      <author>Tommy Coomes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here before Your throne of grace<br/>Resting here in Your embrace<br/>My Savior God my truest friend<br/>Where in the world do I begin</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm undone I'm speechless<br/>Overwhelmed by You<br/>Your love knows no limits<br/>And I'm the living proof</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Many times I drift away<br/>Still Your faithfulness remains<br/>You made this frozen river flow<br/>And I just want to let You know</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Words cannot tell You<br/>How much I love You<br/>All of the things that You are<br/>Lost in this ocean<br/>Of deepest devotion<br/>Lord You have captured my heart</lines>
+    </verse>
+  </lyrics>
+</song>

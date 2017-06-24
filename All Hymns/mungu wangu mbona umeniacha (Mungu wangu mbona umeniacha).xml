@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-03-26T08:35:49">
+  <properties>
+    <titles>
+      <title>mungu wangu mbona umeniacha</title>
+      <title>10.oclock</title>
+    </titles>
+    <authors>
+      <author>Mungu wangu mbona umeniacha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mungu wangu mbona umeniacha(mimi)<br/>katika tabu zote hizi<br/>maisha yangu ni ya mashaka(kwani)<br/>sina raha nimekosa amani<br/>matatizo mengi yananisonga(sana)<br/>nakuomba bwana nisaidie<br/>maadui zangu wananiwinda(kutwa)<br/>wanitega ili wanikamate<br/>ninalal macho wazi mimi(kama mkiwa)<br/>kama ndege mkiwa juu ya paa<br/>nimekuwa kama bundi mimi( fanya hima)<br/>fanay hima bwana kuniokoa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimekuwa kama kichekesho kwa watu jamani mimi bwana<br/>kila nipitapo hunisema na kunicheka<br/>wananizushia maneno ya uongo jamani mimi bwana<br/>mimi nimekuwa ni jalala la kila baya</lines>
+    </verse>
+    <verse name="v3">
+      <lines>maadui wangu kutwa wanisimanaga jamani mimi bwana<br/>wananidhihaki kunisonga na kunitusi<br/>jina langu limekuwa gumzo lao jamani mimi bwana<br/>sasa ndilo walitumialo kwa kulaani</lines>
+    </verse>
+  </lyrics>
+</song>

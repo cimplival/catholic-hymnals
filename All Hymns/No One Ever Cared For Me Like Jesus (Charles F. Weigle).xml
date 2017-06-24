@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:16">
+  <properties>
+    <titles>
+      <title>No One Ever Cared For Me Like Jesus</title>
+    </titles>
+    <copyright>1932 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>19007</ccliNo>
+    <authors>
+      <author>Charles F. Weigle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>No one ever cared for me like Jesus<br/>There's no other friend so kind as He<br/>No one else could take the sin<br/>And darkness from me<br/>O how much He cared for me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I would love to tell you<br/>What I think of Jesus<br/>Since I found in Him<br/>A friend so strong and true<br/>I would tell you how<br/>He changed my life completely<br/>He did something<br/>That no other friend could do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my life was full of sin<br/>When Jesus found me<br/>All my heart was full<br/>Of misery and woe<br/>Jesus placed His strong<br/>And loving arms around me<br/>And He led me in the way<br/>I ought to go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ev'ry day He comes to me<br/>With new assurance<br/>More and more I understand<br/>His words of love<br/>But I'll never know<br/>Just why He came to save me<br/>Till someday I see<br/>His blessed face above</lines>
+    </verse>
+  </lyrics>
+</song>

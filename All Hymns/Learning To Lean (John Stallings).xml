@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:06">
+  <properties>
+    <titles>
+      <title>Learning To Lean</title>
+    </titles>
+    <copyright>1976 HeartWarming Music, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>9976</ccliNo>
+    <authors>
+      <author>John Stallings</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I'm learning to lean<br/>Learning to lean<br/>Learning to lean on Jesus<br/>Finding more power<br/>Than I'd ever dreamed<br/>I'm learning to lean on Jesus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The joy I can't explain fills my soul<br/>Since the day I made Jesus my King<br/>His blessed Holy Spirit is leading my way<br/>He's teaching and I'm learning to lean</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes we can be like the man who said<br/>My life is full now I have ev'rything<br/>But there is a strong Rock in Jesus my Lord<br/>Thro' my trials I've been learning to lean</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sad broken hearted so often I've knelt<br/>And I've found God's peace so serene<br/>And all that He asks is a child-like trust<br/>And a heart that is learning to lean</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's glorious vict'ry each day now for me<br/>I found His peace so serene<br/>He helps me with each task if only I'll ask<br/>Ev'ry day now I'm learning to lean</lines>
+    </verse>
+  </lyrics>
+</song>

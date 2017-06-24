@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:42">
+  <properties>
+    <titles>
+      <title>Common Psalm (IV)</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Responsorial Psalm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All kings shall fall prostrate <br/>before you,<br/>all nations shall serve you.</lines>
+    </verse>
+  </lyrics>
+</song>

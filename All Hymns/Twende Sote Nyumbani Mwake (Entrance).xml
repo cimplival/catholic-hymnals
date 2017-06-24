@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-12-10T06:58:32">
+  <properties>
+    <titles>
+      <title>Twende Sote Nyumbani Mwake</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Twende sote nyumbani <br/>mwake, Bwana Mungu, <br/>(aa ee)<br/>twende sote nyumbani <br/>mwake aliyetuumba. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Yeye ndiye kinga yetu; <br/>Bwana Mungu (aa ee)<br/>Twende sote nyumbani <br/>mwake aliyetuumba.<br/>Yeye ndiye nguvu yetu,<br/>twende sote nyumbani <br/>mwake aliyetuumba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yeye Bwana wa majeshi,<br/>twende sote nyumbani <br/>mwake aliyetuumba.<br/>Ndiye Mungu wa Yakobo,<br/>twende sote nyumbani <br/>mwake aliyetuumba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mtawala wa dunia,<br/>twende sote nyumbani <br/>mwake aliyetuumba.<br/>Ni Mfalme wa mbinguni<br/>twende sote nyumbani <br/>mwake aliyetuumba.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ndiye Mungu wa wokovu,<br/>twende sote nyumbani <br/>mwake aliyetuumba.<br/>Ni hakimu wa dunia,<br/>twende sote nyumbani <br/>mwake aliyetuumba.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jina lake litukuzwe,<br/>twende sote nyumbani <br/>mwake aliyetuumba.<br/>Ndiye Mungu Mtakatifu,<br/>twende sote nyumbani <br/>mwake aliyetuumba.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yeye apendaye haki,<br/>twende sote nyumbani <br/>mwake aliyetuumba.<br/>Ndiye Mungu mwema sana,<br/>twende sote nyumbani <br/>mwake aliyetuumba.</lines>
+    </verse>
+  </lyrics>
+</song>

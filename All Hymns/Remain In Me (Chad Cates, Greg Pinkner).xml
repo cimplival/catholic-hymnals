@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:07">
+  <properties>
+    <titles>
+      <title>Remain In Me</title>
+    </titles>
+    <copyright>2002 New Spring / Unknown, Administered by Brentwood-Benson Music Publishing, Inc. / Unaffili</copyright>
+    <ccliNo>3284856</ccliNo>
+    <authors>
+      <author>Chad Cates</author>
+      <author>Greg Pinkner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Remain in Me<br/>Remain in Me<br/>Because apart from Me<br/>You can do nothing<br/>Remain in Me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I am the Vine<br/>You are the branches<br/>Remain in Me<br/>I am the Vine<br/>You are the branches<br/>Stay here with Me</lines>
+    </verse>
+  </lyrics>
+</song>

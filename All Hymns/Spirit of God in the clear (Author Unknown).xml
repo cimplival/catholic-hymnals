@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:03">
+  <properties>
+    <titles>
+      <title>Spirit of God in the clear</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Spirit of God in the clear running waters <br/>blowing to greatness the trees on the hill<br/>spirit of God in the finger of morning</lines>
+    </verse>
+    <verse name="v2">
+      <lines>fill the earth bringing it to birth and <br/>blow where you will</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blow blow blow till I be <br/>but breath of the spirit blowing in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Down in the meadow the willows are mourning<br/>sheep in the pasture land can not lay still<br/>spirit of God creation is mourning</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.I saw the scar of a year that lay dying<br/>heard the lament of a lone whippor will <br/>spirit of God see that cloud crying</lines>
+    </verse>
+    <verse name="v6">
+      <lines>4.spirit of God everyone's heart is lonely<br/>watching and waiting and hungry untill<br/>spirit of God we long that you only</lines>
+    </verse>
+  </lyrics>
+</song>

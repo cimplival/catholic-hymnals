@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:52:26">
+  <properties>
+    <titles>
+      <title>You Are Redemption</title>
+    </titles>
+    <copyright>2005 New Spring / CCTB Music, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>4630416</ccliNo>
+    <authors>
+      <author>David Moffitt</author>
+      <author>Sue Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>You are, You are<br/>You are, You are<br/>You are, You are <br/>You are, You are <br/>You are, You are redemption</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are<br/>You are<br/>You are<br/>You are<br/>You are<br/>You are redemption</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>You are the King inviting the pauper<br/>To come unafraid to the throne<br/>You are the Father watching and waiting<br/>To welcome the prodigal home</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are the Healer embracing the broken<br/>For all who are wounded and weak You are strong<br/>This is Your story<br/>This is Your song</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You are redemption reckless abandon<br/>Extravagant mercy and grace unrestrained<br/>Incredible freedom without condition passionate<br/>Infinite love untamed<br/>You are redemption</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You are the Judge taking the place<br/>Of the prisoner sentenced to die<br/>You are the Warrior riding to battle<br/>Declaring His love for His bride</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You are the Hero arriving in glory<br/>To rescue the captive when all hope is gone<br/>This is Your story<br/>This is Your song</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>You are redemption reckless abandon<br/>Extravagant mercy and grace unrestrained<br/>Incredible freedom without condition<br/>Passionate infinite love untamed<br/>You are redemption</lines>
+    </verse>
+  </lyrics>
+</song>

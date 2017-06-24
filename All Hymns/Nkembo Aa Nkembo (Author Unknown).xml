@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:57:28">
+  <properties>
+    <titles>
+      <title>Nkembo Aa Nkembo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nkembo aa Nkembo na tata x2<br/>Nkembo aa Nembo na Mwana x2<br/>Nkembo aa Nkembo na elimo x2<br/>Nkembo aa Banso lisa nga x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>1. Nkembo nayo Tata mosalisi, Binso sali na esengo ee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>2. Nkembo nayo Yesu mobikisi to motondo tomo yembela.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>3. Nkembo nayo nzambe mosantisi, to fukama tomo yembela.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>4. Nkembo Nnembo seko na seko ee, ombi leko binso sek amen.</lines>
+    </verse>
+  </lyrics>
+</song>

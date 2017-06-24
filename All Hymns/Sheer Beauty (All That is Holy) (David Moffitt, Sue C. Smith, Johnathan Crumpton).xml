@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:44">
+  <properties>
+    <titles>
+      <title>Sheer Beauty (All That is Holy)</title>
+    </titles>
+    <copyright># 2006 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/CCTB Music/ASCAP, Administered by BMG Music Publishing licensing admin by Music Serv</copyright>
+    <verseOrder>v1 c1 v2 v1</verseOrder>
+    <ccliNo>4708726</ccliNo>
+    <authors>
+      <author>David Moffitt</author>
+      <author>Sue C. Smith</author>
+      <author>Johnathan Crumpton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here in your presence<br/>I fall to my knees<br/>I’m overcome<br/>I’m overcome<br/>I am defeated<br/>You conquer me<br/>With your love<br/>With your love</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I raise my hands in surrender<br/>You have captured my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are sheer beauty<br/>Absolute glory<br/>Consummate mercy<br/>Incomparable grace<br/>Infinite power<br/>Unchanging wonder<br/>Everything worthy<br/>Of undying praise<br/>All that is holy<br/>All that is holy<br/>All that is holy<br/>You are sheer beauty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here in your presence<br/>You speak my name<br/>I come undone<br/>I come undone<br/>All of my worship and<br/>All of my praise<br/>Is not enough<br/>Is not enough</lines>
+    </verse>
+  </lyrics>
+</song>

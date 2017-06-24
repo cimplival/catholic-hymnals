@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:20">
+  <properties>
+    <titles>
+      <title>MISA American kyrie.</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v1 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord have mercy, Lord have mercy<br/>On your servants, Lord have mercy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God almighty just and faithful<br/>Lord have mercy, Lord have mercy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ have mercy, Christ have mercy,<br/>Gift from heaven have mercy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>light of truth light of justice.<br/>christ have mercy, christ have mercy,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God almighty just and faithful<br/>Lord have mercy, Lord have mercy.</lines>
+    </verse>
+  </lyrics>
+</song>

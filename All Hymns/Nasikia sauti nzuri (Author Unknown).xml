@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:46">
+  <properties>
+    <titles>
+      <title>Nasikia sauti nzuri</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasikia sauti nzuri</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.Nasikia sauti nzuri kama ya malaika ni sauti toka mbinguni,sauti ya Mungu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aniita mimi niende nikamtumikie,anitume shambani mwake nikavune yote</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Umeniita ,nimeitika wito nakuja kwako leo<br/>najongea mbele zako Bwana nipokee mimi,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>nikotayari nimeyaacho yote najikabithi kwako,unitume popote nami nitakwenda haraka.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>2.Ninaenda mimi naenda,ninaenda  mwenyewe.Ninaenda mbele za Bwana ,sitarudi nyuma</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Ndugu zangu na marafiki mniache niende nikafanye kazi ya Bwana,nitakapotumwa.</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>3.Nilitazama  moyo wako,moyo wako mwanangu<br/>hata kabla hujazaliwa</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>nilikutambua nilikuteua mapema kati ya ndugu zako uwe kuhani wangu mimi,kuhani mkuu.</lines>
+    </verse>
+    <verse name="c1g">
+      <lines>4.Shamba lako Bwana ni kubwa na mavuno ni mengi wavunaji ndio wachache</lines>
+    </verse>
+    <verse name="c1h">
+      <lines>nitakwenda mimi nakuomba sana ee Bwana nipeleke shambani nikavune mavuno yote yaliyotayari</lines>
+    </verse>
+    <verse name="c1i">
+      <lines>5.Uwe nami siku kwa siku, Bwana usiniache unikinge na majaribu nilinde daima</lines>
+    </verse>
+    <verse name="c1j">
+      <lines>nipeleke habari njema ulimwenguni mwote watu wote wakutambue wakugeukie.</lines>
+    </verse>
+  </lyrics>
+</song>

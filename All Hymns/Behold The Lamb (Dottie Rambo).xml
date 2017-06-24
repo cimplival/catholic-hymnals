@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:12">
+  <properties>
+    <titles>
+      <title>Behold The Lamb</title>
+    </titles>
+    <copyright>1979 John T. Benson Publishing Company, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>10903</ccliNo>
+    <authors>
+      <author>Dottie Rambo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Behold the Lamb behold the Lamb<br/>Slain from the foundation<br/>Of the world</lines>
+    </verse>
+    <verse name="o2">
+      <lines>For sinners crucified<br/>O holy sacrifice<br/>Behold the Lamb of God<br/>Behold the Lamb</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Crown Him crown Him<br/>Worthy is the Lamb<br/>Praise Him praise Him<br/>Heav'n and earth resound<br/>Behold the lamb of god, behold the lamb of god<br/>Behold the lamb</lines>
+    </verse>
+  </lyrics>
+</song>

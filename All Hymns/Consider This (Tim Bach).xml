@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:44">
+  <properties>
+    <titles>
+      <title>Consider This</title>
+    </titles>
+    <copyright># 2005 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/TBR Music (ASCAP), Administered by BMG Music Publishing; non-commercial licensing adm</copyright>
+    <ccliNo>4708582</ccliNo>
+    <authors>
+      <author>Tim Bach</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Consider this<br/>That someone so great would love someone small<br/>Consider this<br/>That one who has everything still gave it all<br/>Even death on a cross</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And at your throne we will sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, we will join the angels singing<br/>Holy, Holy to the Lord of Glory<br/>Holy, we will join the angels singing<br/>Holy is the Lord</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Consider this<br/>That you would know me and still choose to love me<br/>Consider this<br/>That while we were sinners you died for me<br/>So I could be free</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And at your throne we will sing<br/>And at your throne we will sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will lift my hands in worship<br/>Lord of all, You deserve it<br/>You are everything, here’s my offering<br/>I will bow my head in worship<br/>Lord of all, You deserve it<br/>I’m am broken, I am yielded</lines>
+    </verse>
+  </lyrics>
+</song>

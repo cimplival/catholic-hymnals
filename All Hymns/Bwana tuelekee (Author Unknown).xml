@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:30">
+  <properties>
+    <titles>
+      <title>Bwana tuelekee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana tuelekee, tuhurumie, kwa kuwa tumekukosa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Kwako mkombozi tena mfalme wetu twayainua macho kwa uchungu sikia Kristu maombi na mlio</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Mkono wa Bwana wenye nguvu yote wokovu wetu mlango wa uwingu futa madoa ya makosa yetu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Ewe mkombozi mwenye utukufu usikilize maombi ya watu<br/>makosa yetu utuondolee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Tunaungama dhambi zetu zote kwa kweli toba tunazifunua<br/>mkombozi wetu utuhurumie</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. Bila makosa walikukamata ukakubali kufa msalabani urithi wako uutunze daima</lines>
+    </verse>
+  </lyrics>
+</song>

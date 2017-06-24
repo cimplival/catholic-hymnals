@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-12-18T05:19:06">
+  <properties>
+    <titles>
+      <title>Nimewalisha kwa Unono</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nimewalisha kwa unono<br/> wa ngano na kuwashibisha <br/>asali (asali), <br/>Nimewalisha kwa unono <br/>wa ngano na kuwashibisha <br/>asali itokayo itokayo <br/>mwambani.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nimewalisha kwa kiini <br/>cha ngano <br/>na kuwashibisha asali <br/>(itokayo mwambani).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Katika shinda waliniita <br/>waliniita katika shinda <br/>(nami nikawaokoa).</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

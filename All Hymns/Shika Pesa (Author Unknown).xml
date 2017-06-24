@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:11:29">
+  <properties>
+    <titles>
+      <title>Shika Pesa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shika pesa Zako ukampe Bwana Nenda ukampe Bwana sadaka yako Ukatoe sadaka kwa Bwana X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Jueni Kuwa) naye atawajaza Atawajazaa Baraka, atawajaza Baraka. X 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.Ukimpa Mungu wako chochote Ulichonacho naye atakuongeza mara mbili.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Mazao ya mashambani nenda Ukampe bwana naye atakuogeza mara mbili.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.Vijana pia wazee, hima tutoe sadaka, Kazi ya mikono yetu  ( Tumpe)  Mungu wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

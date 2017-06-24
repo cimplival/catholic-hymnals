@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:04">
+  <properties>
+    <titles>
+      <title>Ninakupenda Mungu Lyrics</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ninakupenda Mungu Lyrics</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninakupenda Mungu (wangu) <br/>Ninakupenda wewe milele na milele <br/>(Bwana) nitakutukuza</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pokea sifa zangu (Bwana) <br/>Zinazotoka katika kinywa changu mimi <br/>(ndani) na moyoni mwangu *2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katika makusanyiko nitaziimba zaburi <br/>Nitazitangaza sifa zako daima milele <br/>Kwenye madhabahu yako nitaitoa sadaka <br/>Ile ya kukupendeza ee Mungu Muumba wangu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Umenitendea mengi, mema yasiyo idadi <br/>Ninakushukuru Bwana, ee Baba Muumba wangu <br/>Nikiyakumbuka yote, machozi yanimwagika <br/>Ni machozi ya furaha, ni machozi ya upendo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Usiniache ee Bwana, na wala usinitupe <br/>Ukinitupa wewe, nani ataniokota <br/>Ndiwe msitiri wangu, katika dunia hii <br/>Dunia yenye mateso na yenye mahangaiko</lines>
+    </verse>
+  </lyrics>
+</song>

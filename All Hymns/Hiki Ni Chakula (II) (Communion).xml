@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-29T08:15:17">
+  <properties>
+    <titles>
+      <title>Hiki Ni Chakula (II)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 e1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hiki ni chakula kilicho shuka <br/>toka mbinguni karibuni <br/>wakristu jongeeni kwa karamu <br/>ya chakula cha Bwana. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana ametuandalia chakula <br/>bora ndio mwili wake Bwana, <br/>unaotolewa kwa ajili yetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana ametuandalia <br/>kinywaji safi ndiyo damu azizi,<br/>inayomwagika kwa ajili yetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hivyo kila tuulapo mkate huu <br/>na kunywa kikombe hiki, <br/>tunatangaza kifo chake Bwana.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>(Pia kila tuulapo mkate huu <br/>na kunyua kikombe hiki, <br/>twautukuza ufufuko wake.)</lines>
+    </verse>
+  </lyrics>
+</song>

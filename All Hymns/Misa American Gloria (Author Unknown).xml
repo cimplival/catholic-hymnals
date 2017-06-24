@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:31:16">
+  <properties>
+    <titles>
+      <title>Misa American Gloria</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria Gloria Gloria to God in Heav'n above (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. To you alone our hean'nly King; Glory to God in heav'n above; the Mortals and the Angels sing; Glory to God in heav'n above;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To you alone GOD'S Son Glory to God in heav'n above; The Lamb of God; the chosen one; Glory to God in heav'n above;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. Who takes away the sins of all; Glory to God in heav'n above; Have mercy Lord and hear our call; Glory to God in heav'n above;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who sits at God's right hand above; Glory to God in heav'n above; have mercy Lord, O King of Love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>3. For you alone the Holy One; Glory to God in heav'n above; Glory to God in heav'n above; Glory to God in heav'n above;</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For you alone are the Most High; Glory to God in heav'n above; The Trinity one Glorious God; Glory to God in heav'n above;</lines>
+    </verse>
+  </lyrics>
+</song>

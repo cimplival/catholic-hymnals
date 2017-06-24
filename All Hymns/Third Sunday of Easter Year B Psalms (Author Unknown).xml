@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:26:00">
+  <properties>
+    <titles>
+      <title>Third Sunday of Easter Year B Psalms</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lift up the light of your face on us, O Lord.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I called, the God of justice <br/>gave me answer;<br/>from anguish you released me, <br/>have mercy and hear me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Know that the LORD works <br/>wonders for his faithful one;<br/>the LORD will hear me <br/>whenever i call him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"What can bring us happiness?" <br/>many say.<br/>Lift up the light of <br/>your face on us, O LORD.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In peace i will lie down and fall asleep,<br/>for you alone, O LORD, <br/>make me dwell in safety. </lines>
+    </verse>
+  </lyrics>
+</song>

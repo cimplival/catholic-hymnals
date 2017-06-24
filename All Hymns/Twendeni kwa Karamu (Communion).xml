@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:28">
+  <properties>
+    <titles>
+      <title>Twendeni kwa Karamu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twendeni kwa karamu <br/>ya Bwana tumeitwa<br/>Twendeni twende kumpokea<br/>Ni mwaliko wa Bwana<br/>Tukale mkate wa uzima</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tujitakase mbele ya kwenda <br/>kwa karamu hii-<br/>Twendeni twende kumpokea<br/>Twende watakatifu-</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Karibu kwangu Yesu ukae <br/>kwangu daima-<br/>Twendeni twende kumpokea<br/>Nifunze njia yako<br/>Tukale mkate wa uzima.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na kwa uwezo wako imani <br/>yangu naikiri-<br/>Twendeni twende kumpokea<br/>Ndiwe Mungu Mwokozi<br/>Tukale mkate wa uzima.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Usituache basi pamoja nasi ukae-<br/>Twendeni twende kumpokea<br/>Kwa kuwa kumekucha<br/>Tukale mkate wa uzima.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na tufurahi mwisho pamwe <br/>na Baba milele-<br/>Twendeni twende kumpokea<br/>Kwa umoja na Roho<br/>Tukale mkate wa uzima.</lines>
+    </verse>
+  </lyrics>
+</song>

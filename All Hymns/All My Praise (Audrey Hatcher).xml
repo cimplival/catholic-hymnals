@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:42:40">
+  <properties>
+    <titles>
+      <title>All My Praise</title>
+    </titles>
+    <copyright>2002 BMG Songs, Inc., Administered by BMG Music Publishing</copyright>
+    <ccliNo>4437217</ccliNo>
+    <authors>
+      <author>Audrey Hatcher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Holy my God You are worthy<br/>Of all my praise<br/>Holy my God You are worthy<br/>Of all my praise</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I will follow You through green pastures<br/>And sing hallelujah to Your name<br/>I will follow You through dark disaster<br/>And sing hallelujah through the pain<br/>And even in the shadow of death I will praise You<br/>And even in the valley I will say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are seated on Your throne in heaven<br/>And You see all of us down here<br/>And You have promised You will not abandon<br/>So I shall not fear<br/>And even in the shadow of death<br/>I will praise You<br/>And even in the valley I will say</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You made ev'ry star<br/>And You taught it how to shine<br/>You knew my name before there was time<br/>And all this was just part of Your glorious design<br/>Hallelujah<br/>Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

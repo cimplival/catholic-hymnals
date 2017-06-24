@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:03">
+  <properties>
+    <titles>
+      <title>Holy Spirit Flow Through Me</title>
+    </titles>
+    <copyright>1974 HeartWarming Music, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>12774</ccliNo>
+    <authors>
+      <author>Walt Mills</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit flow through me<br/>Holy Spirit flow through me<br/>And make my life<br/>What it ought to be<br/>Holy Spirit flow through me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Spirit rest on me<br/>Holy Spirit rest on me<br/>And use me Lord<br/>To win the lost to Thee<br/>Holy Spirit rest on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit flow out from me<br/>Holy Spirit flow out from me<br/>That others Lord may see You in me<br/>Holy Spirit flow out from me</lines>
+    </verse>
+  </lyrics>
+</song>

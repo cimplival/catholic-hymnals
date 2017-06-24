@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:42:43">
+  <properties>
+    <titles>
+      <title>Alleluia ,alleluia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go make disciples of all the nations, says the Lord:am with you always to the close of the age</lines>
+    </verse>
+  </lyrics>
+</song>

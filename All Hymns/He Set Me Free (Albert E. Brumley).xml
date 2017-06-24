@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:54">
+  <properties>
+    <titles>
+      <title>He Set Me Free</title>
+    </titles>
+    <copyright>1939. Renewed 1967 Stamps - Baxter Music, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>61062</ccliNo>
+    <authors>
+      <author>Albert E. Brumley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>He set me free<br/>Yes He set me free<br/>And He broke the bonds<br/>Of prison for me<br/>I'm glory bound<br/>My Jesus to see<br/>For glory to God<br/>He set me free</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Once like a bird<br/>In prison I dwelt<br/>No freedom<br/>From my sorrow I felt<br/>But Jesus came<br/>And listened to me<br/>And glory to God<br/>He set me free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I am climbing<br/>Higher each day<br/>Darkness of night<br/>Has drifted away<br/>My feet are planted<br/>On higher ground<br/>And glory to God<br/>I'm homeward bound</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Good-bye to sin<br/>And things that confound<br/>Naught of the world<br/>Shall turn me around<br/>Daily I'm working<br/>I'm praying too<br/>And glory to God<br/>I'm going thru</lines>
+    </verse>
+  </lyrics>
+</song>

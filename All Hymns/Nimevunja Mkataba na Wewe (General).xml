@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:03">
+  <properties>
+    <titles>
+      <title>Nimevunja Mkataba na Wewe</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 v6 c1 v7 v8 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo Kumbe ni wewe shetani <br/>umeniletea matatizo yote haya,<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo kumbe ni wewe shetani <br/>ulisababisha nikamsahau Mungu,<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nimevunja mkataba <br/>na wewe (shetani),<br/>ondoka, ondoka nasema<br/>namkaribisha Yesu, <br/>moyoni mwangu. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lo kumbe ni wewe shetani <br/>ulisababisha nikafungwa gerezani,<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lo kumbe ni wewe shetani <br/>nikaipokea rushwa-<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lo kumbe ni wewe shetani <br/>ulinipeleka katika nguvu za giza,<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lo kumbe ni wewe shetani <br/>uliniongoza katika njia ya dhambi,<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lo kumbe ni wewe shetani <br/>unakosanisha ndugu nao majirani,<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lo kumbe ni wewe shetani <br/>unasababisha vifo vinakuwa vingi,<br/>Ondoka kwangu haraka <br/>kwa jina la Yesu ondoka kwangu.</lines>
+    </verse>
+  </lyrics>
+</song>

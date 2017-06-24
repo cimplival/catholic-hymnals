@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:42">
+  <properties>
+    <titles>
+      <title>Seventeenth Sunday in Ordinary Time Year C Psalms</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>Psalms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>On the day I called,<br/>you answered me, O Lord.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I thank you, Lord,<br/>with all my heart;<br/>you have heard the words<br/>of my mouth.<br/>In the presence of the angels<br/>I praise you.<br/>I bow down towards your<br/>holy temple.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I give thanks to your name<br/>for your merciful love<br/>and your faithfulness.<br/>You have exalted your name<br/>and your promise over all.<br/>On the day I called,<br/>you answered me; you increased<br/>the strength of my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lords is high,<br/>yet he looks on the lowly,<br/>and the haughty<br/>he knows from afar.<br/>You give me life though<br/>I walk amid affliction;<br/>you stretch out your hand<br/>against the anger of my foes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With your right hand<br/>you save me;<br/>the Lords will accomplish<br/>this is for me. O Lord,<br/>your merciful love is eternal,<br/>discard not the work<br/>of your hands.</lines>
+    </verse>
+  </lyrics>
+</song>

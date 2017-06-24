@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:36">
+  <properties>
+    <titles>
+      <title>Mpigieni Mungu Kelele Za Shangwe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Mwambieni Mungu) <br/>matendo yako yanatisha kama<br/>nini,tukuzeni sifa <br/>zake Mungu mkuu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mpigieni mungu, <br/>kelele za shangwe, <br/>nchi yote imbeni <br/>utukufu wake, <br/>tukuzeni sifa zake <br/>Mungu mkuu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Nchi yote itakusujudia <br/>na kukuimbia, naam) <br/>italiimbia jina lako njoni, <br/>njoni tazameni, matendo ya <br/>Mungu, kageuza bahari<br/> kuwa nchi kavu, katika mto <br/>walivuka kwa miguu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Huko ndiko tulikofurahia <br/>mtawala milele, naam) <br/>atawala kwa uweza wake <br/>njoni, njoni sikieni, <br/>nyinyi wenye kumcha, <br/>nami nitatangaza <br/>aliyonitenda na <br/>ahimidiwe sana Mungu mkuu.</lines>
+    </verse>
+  </lyrics>
+</song>

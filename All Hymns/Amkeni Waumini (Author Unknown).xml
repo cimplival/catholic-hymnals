@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T18:26:17">
+  <properties>
+    <titles>
+      <title>Amkeni Waumini</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amkeni waumini nyote (sasa) tupeleke zawadi zetu. Amkeni bila kusita (nyote) tupeleke kwa Mungu wetu .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewe baba ewe mama na nyinyi vijana amkeni nyote tupeleke zawadi kwa Mungu wetu x2.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.Simama ee ndugu nenda ukatoe japo kidogo utoe kwa moyo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Mungu amekulinda usiku kucha ulikuwa hujui litendekalo peleka zawadi kama shukurani.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.Tutoe zawadi tumwombe Mungu atuzidishie zaidi kwa wingi.</lines>
+    </verse>
+  </lyrics>
+</song>

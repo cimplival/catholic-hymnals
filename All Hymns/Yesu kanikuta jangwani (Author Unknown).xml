@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:52:24">
+  <properties>
+    <titles>
+      <title>Yesu kanikuta jangwani</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yesu kanikuta jangwani, akaniambia, nenda huko Yerusalemu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu kanikuta gizani, akasema, kimbilia Yerusemu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mimi kipofu mauti mimi kipofu sioni</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kulikuwa giza kukapambazuka nikamwona Bwana wangu*2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Natamani mji ule Yerusalemu, kuna nuru kuna raha</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dhambi zangu matendo yangu, ni maovu, tazameni msalabani</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Upendo wa nguo yako safi Upendo wa nguo yako nzuri</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Uniguze moyo wangu, nitaimba sifa zako*2</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Watakatifu wa moyo, tumsifuni Bwana mwenye nchi na mbingu</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Twende huko nchi ya mbali, ya kanani ndipo tutaishi milele</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Fimbo yake huyo Musa ilituokoa Fimbo yake huyo Musa ilituongoza</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Nchi ya misri, nchi ya farao, Tulimwona Bwana mwenye enzi*2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:10">
+  <properties>
+    <titles>
+      <title>Swedish Mass (Gloria)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory to God, glory to God,<br/>Glory to the Father. x2<br/>To him be glory forever, x2<br/>Allelluia Amen, Allelluia Amen, <br/>Allelluia Amen, Allelluia Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory to God, glory to God,<br/>Glory to the Father. x2<br/>To him be glory forever, x2<br/>Allelluia Amen, Allelluia Amen, <br/>Allelluia Amen, Allelluia Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory to God, glory to God,<br/>Glory to the Spirit. x2<br/>To him be glory forever, x2<br/>Allelluia Amen, Allelluia Amen, <br/>Allelluia Amen, Allelluia Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

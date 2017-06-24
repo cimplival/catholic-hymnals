@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:56:35">
+  <properties>
+    <titles>
+      <title>Nipishe Njia</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nipishe  njia nipeni  nafasi-  <br/>nimuonyeshe  Mungu  nilivyofurahi <br/>Nitamwimbia  ngoma  nitacheza-  <br/>nimuonyeshe  Mungu  nilivyofurahi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Natamani kuruka nifike kule  <br/>nimuinue Mungu kwa mikono yangu  <br/>nimueleze kwa kinywa changu mwenyewe<br/>kwamba nimefurahi kwa upendo wake </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bwana nashukuru nashukuru <br/>nashukuru tu ninashukuru kwa<br/>kunipendabila mwisho sina <br/>(cha kusema) x3 <br/>tu ninashukuru kwa kunipenda <br/>bila mwisho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akaniinua  kutoka  shimoni – <br/>nimuonyeshe  Mungu  nilivyofurahi.<br/>Akaniweka juu ya  kinara-<br/>nimuonyeshe  Mungu  nilivyofurahi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nitazunguka  kwa maringo  tele-<br/>nimuonyeshe  Mungu  nilivyofurahi.<br/>Na  tabasamu  lisilokauka-<br/>nimuonyeshe  Mungu  nilivyofurahi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nitawashika  wenzangu  mikono-<br/>nimuonyeshe  Mungu  nilivyofurahi.<br/>Tuinue juu  kwa  pamoja-<br/>nimuonyeshe  Mungu  nilivyofurahi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nitaandika  utukufu  wake- <br/>nimuonyeshe  Mungu  nilivyofurahi.<br/>Na  wajukuu wangu  wausome-<br/>nimuonyeshe  Mungu  nilivyofurahi.</lines>
+    </verse>
+  </lyrics>
+</song>

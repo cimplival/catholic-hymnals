@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:40">
+  <properties>
+    <titles>
+      <title>Send The Wind</title>
+    </titles>
+    <copyright># 2004 New Spring (a div. of Brentwood-Benson, dba GreatWorshipSongs.com)/TBR Music (ASCAP), Administered by BMG Music Publishing; non-commercial licensing adm</copyright>
+    <ccliNo>4708678</ccliNo>
+    <authors>
+      <author>Tim Bach</author>
+      <author>Jason Hoard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need revival, I need repentance<br/>I need a new start, I need a brand new heart<br/>More of You, I need more of You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Send the wind, send the wind<br/>send the fire once again<br/>Let it fall down on us here <br/>as we lift up holy hands<br/>Send the wind, send the wind<br/>send the fire once again<br/>Everything in us will change<br/>as our hearts you innovate</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need passion, I need purpose<br/>I need forgiveness, I need courageous faith<br/>More of You, I need more of You</lines>
+    </verse>
+  </lyrics>
+</song>

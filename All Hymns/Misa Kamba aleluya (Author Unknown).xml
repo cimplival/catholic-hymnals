@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:31:36">
+  <properties>
+    <titles>
+      <title>Misa Kamba aleluya</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(Aleluya) aleluya aleluya</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aleluya Aleluya Aleluya X2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>MTAKATIFU</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Mtakatifu Bwana X3 (Bwana) Mungu wa majeshi] X2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mbingu na dunia zimejaa utukufu wako</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hosana juu Mbinguni, hosana, hosana, hosana juu Mbinguni X2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mbarikiwa ajaye kwa jina lake Bwana</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hosana juu Mbinguni, hosana, hosana, hosana juu Mbinguni. X2</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mtakatifu Bwana Mungu wa majeshi. X3</lines>
+    </verse>
+    <verse name="v10">
+      <lines>(Yesu Kristu) alikufa (Yesu) Kristu alifufuka.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>[(Yesu ee Yesu Kristu) atakuja kwetu tena] X2</lines>
+    </verse>
+    <verse name="v12">
+      <lines>(Amina) Amina Amina</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Amina Amina Amina X2</lines>
+    </verse>
+    <verse name="v14">
+      <lines>MWANA KONDOO</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Mwana kondoo mwana wa Mungu uondoaye dhambi za dunia utuhurumie X2</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Mwana kondoo mwana wa Mungu uondoaye dhambi za dunia, utujalie, utujalie, tujalie Amani.</lines>
+    </verse>
+    <verse name="v17">
+      <lines>utujalie tujalie Amani. X3</lines>
+    </verse>
+  </lyrics>
+</song>

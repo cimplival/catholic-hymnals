@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:09:55">
+  <properties>
+    <titles>
+      <title>Salve Regina</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salve Regina, mater misericordiae, Vita, dulcedo, et spes nosta, salve! Ad te clamamus,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>exsules filii Hevae. Ad te suspiramus gementes et flentes In hacl acrimarum valle.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eia ergo, advocata nostra, Illos tuos misericordes oculos ad nos converte.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Et Jesum benedictum fructum ventris tui Nobis post hoc exilium ostende.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Clemens, O pia,  O dulcis virgo Maria!</lines>
+    </verse>
+  </lyrics>
+</song>

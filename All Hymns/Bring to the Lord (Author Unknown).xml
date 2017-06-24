@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:17">
+  <properties>
+    <titles>
+      <title>Bring to the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Bring to the Lord all your offering,<br/>adore him in his holy place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O sing a new song to the loving Lord,<br/>Sing a new song to the Lord,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O sing to the Lord, and bless his Holy Name,<br/>O sing to the Lord and bless his Name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2) Bring to the Lord your joyful hearts,<br/>sing him his praise from today.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3 Pray to the Lord our God most High,<br/>offer to him all you have.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thanks to the Lord who gives us life</lines>
+    </verse>
+  </lyrics>
+</song>

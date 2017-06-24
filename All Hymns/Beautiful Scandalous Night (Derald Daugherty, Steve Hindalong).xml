@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:11">
+  <properties>
+    <titles>
+      <title>Beautiful Scandalous Night</title>
+    </titles>
+    <copyright>1995 New Spring / Never Say Never Songs, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>1131836</ccliNo>
+    <authors>
+      <author>Derald Daugherty</author>
+      <author>Steve Hindalong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>At the wonderful tragic mysterious tree<br/>On that beautiful scandalous night<br/>You and me were atoned by His blood<br/>And forever washed white<br/>On that beautiful scandalous night</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Go on up to the mountain of mercy<br/>To the crimson perpetual tide<br/>Kneel down on the shore<br/>Be thirsty no more<br/>Go under and be purified</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Follow Christ to the holy mountain<br/>Sinner sorry and wrecked by the fall<br/>Cleanse your heart and your soul<br/>In the fountain that flows<br/>For you and for me and for all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the hillside you will be delivered<br/>At the foot of the cross justified<br/>And your spirit restored<br/>By the river that pours<br/>From our blessed Savior's side</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You carried the sin of mankind<br/>On Your back<br/>And the sky went black</lines>
+    </verse>
+  </lyrics>
+</song>

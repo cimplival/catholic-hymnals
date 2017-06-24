@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-11-13T05:19:48">
+  <properties>
+    <titles>
+      <title>Ring'ana Ri'omenene</title>
+    </titles>
+    <verseOrder>v1 c1 v4 c1 v3 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ring'ana rio monene <br/>nering'ana - rigiya. x2<br/>(The word of God<br/>(is a good word).<br/>Torie ogosika<br/>torigokere botambe. x2<br/>(We give it respect, and <br/>let's be joyful in it always).</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Neringana - rigiya.<br/>(This word is good).<br/>Neringana - rigiya.<br/>Neringana - rigiya, <br/>torigokere botambe. x2<br/>(Let's be joyful in it always).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ring'ana rio monene <br/>nering'ana rio - morembe. x2<br/>(The word of God<br/>is peace).<br/>Torie ogosika <br/>torigokere botambe. x2<br/>(We give it respect, and <br/>let's be joyful in it always).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ring'ana rio monene <br/>nering'ana rio- bong'aini. x2<br/>(The word of God<br/>is wisdom).<br/>Torie ogosika <br/>torigokere botambe. x2<br/>(We give it respect, and <br/>let's be joyful in it always).</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ring'ana rio monene <br/>nering'ana rio - bwanchani. x2<br/>(The word of God<br/>is love).<br/>Torie ogosika torigokere botambe. x2<br/>(We give it respect, and <br/>let's be joyful in it always).</lines>
+    </verse>
+  </lyrics>
+</song>

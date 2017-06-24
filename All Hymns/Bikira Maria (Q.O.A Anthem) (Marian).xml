@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:43:13">
+  <properties>
+    <titles>
+      <title>Bikira Maria (Q.O.A Anthem)</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c4 v1 v2 e1 e2 e3 e4 e5 e6 e7</verseOrder>
+    <authors>
+      <author>Marian</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bikira Maria Malkia <br/>wa mitume<br/>Roho Mtakatifu <br/>alikushukia wewe<br/>Kutimiza utabiri alivyonena <br/>Malaika wa Mungu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nawe ukatungwa <br/>Mama yake  Mungu Mwana <br/>Nafsi ya pili katika Utatu Takatifu<br/>Naye Ndiye Yesu Kristu <br/>Mwana wa Mungu Falme <br/>wa Mitume</lines>
+    </verse>
+    <verse name="c3">
+      <lines>U-li- shi-riki pa-moja na <br/>mitume wakati wote<br/>Ewe Bikira Mama usiye na dhambi<br/>Utuombee kwa Mwanao Yesu.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Ili tufuate njia kweli <br/>yenye mwanga<br/>Ndiwe Mal-ki-a wa <br/>mitume wake Yesu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mwanga wa msalaba takatifu, <br/>ili kuangazia tangu kale.<br/>Ukawa ni mbarikiwa, <br/>tena mzazi wa wokovu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kama vile ulivyo mtunza Yesu, <br/>ukawa mzazi bora mbarikiwa.<br/>Utuombee wazazi, <br/>tuweze kuzaa mitume.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ewe mama yetu Maria tuombee <br/>tuwe na imani thabiti,<br/>Ewe mama,utuombee <br/>ili tufuate njia kweli,<br/> yenye mwanga, <br/>Ndiye Malkia wa Mitume <br/>wake Yesu.</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Ndiwe nyota ya mbinguni <br/>tuangazie mwanga.<br/>utuombee ili tufuate <br/>njia kweli, yenye mwanga, <br/>Ndiye Malkia wa Mitume <br/>wake Yesu.</lines>
+    </verse>
+    <verse name="e3">
+      <lines>Sala zako ewe maria <br/>zituzidie sisi sote imani.<br/>Ewe mama, <br/>utuombee ili tufuate <br/>njia kweli, <br/>yenye mwanga, <br/>Ndiye Malkia wa Mitume <br/>wake Yesu.</lines>
+    </verse>
+    <verse name="e4">
+      <lines>Tuombee nasi tuwe <br/>mitume wenye mwanga,<br/>utuombee ili tufuate<br/>njia kweli, yenye mwanga, <br/>Ndiye Malkia wa Mitume <br/>wake Yesu.</lines>
+    </verse>
+    <verse name="e5">
+      <lines>Bikira Maria Malkia <br/>wa mitume,<br/>Roho Mtakatifu <br/>alikushukia wewe<br/>Kutimiza utabiri alivyonena <br/>Malaika wa Mungu.</lines>
+    </verse>
+    <verse name="e6">
+      <lines>Nawe ukatungwa<br/> Mama yake  Mungu Mwana <br/>Nafsi ya pili katika <br/>Utatu Takatifu.<br/>(Naye Ndiye Yesu Kristu <br/>Mwana wa Mungu <br/>Mfalme wa Mitume). x2</lines>
+    </verse>
+    <verse name="e7">
+      <lines>Naye Ndiye Yesu Kristu <br/>Mwana wa Mungu <br/>mkombozi wa ulimwengu.</lines>
+    </verse>
+  </lyrics>
+</song>

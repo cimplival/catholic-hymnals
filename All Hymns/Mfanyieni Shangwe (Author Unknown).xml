@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:24:30">
+  <properties>
+    <titles>
+      <title>Mfanyieni Shangwe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mfanyieni shangwe Dunia yote<br/>na mtumikieni kwa furaha.*2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.Njooni mbele za Bwana kwa kuimba<br/>jueni kwamba yeye ndiye Mungu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.Alituumba tuko watu wake<br/>jueni kwamba yeye ndiye Mungu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3.Piteni milangoni kwa shukrani<br/>daima himidini jina lake.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4.Mtukuzeni Baba pia Mwana<br/>na Roho mtakatifu siku zote.</lines>
+    </verse>
+  </lyrics>
+</song>

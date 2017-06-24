@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-02-26T11:14:05">
+  <properties>
+    <titles>
+      <title>Gloria (Unity Mass)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>Unity Mass Gloria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>[Glory glory to God<br/>Glory in the highest <br/>and peace on earth<br/>to His people of goodwill] x2<br/>[We worship you Almighty Father,<br/>We give you thanks Lord for your glory] x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord God heavenly King, Oh Lord Jesus Christ,<br/>Begotten Son of God, only Son of God.<br/>Lord God and Lamb of God, You take away sins,<br/>The sins of the world, have mercy on us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For you Lord are seated, at the right hand<br/>Right hand of Mighty God, receive our prayers<br/>Alone are Holy One, Alone the Most High<br/>With the Holy Spirit, Forever Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

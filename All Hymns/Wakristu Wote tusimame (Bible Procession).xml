@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:52:00">
+  <properties>
+    <titles>
+      <title>Wakristu Wote tusimame</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wakristu wote tusimame,<br/>tutangaze, <br/>injili yake Bwana Wetu<br/>iende mbele. x2<br/>Iende wapi, Injili, Iende mbele<br/>injili yake injili,<br/>iende mbele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akina Mama tusimame,<br/>tutangaze, <br/>injili yake Bwana Wetu<br/>iende mbele. x2<br/>Iende wapi, Injili, Iende mbele<br/>injili yake injili,<br/>iende mbele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akina Baba tusimame,<br/>tutangaze, <br/>injili yake Bwana Wetu<br/>iende mbele. x2<br/>Iende wapi, Injili, Iende mbele<br/>injili yake injili,<br/>iende mbele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vijana wote tusimame,<br/>tutangaze, <br/>injili yake Bwana Wetu<br/>iende mbele. x2<br/>Iende wapi, Injili, Iende mbele<br/>injili yake injili,<br/>iende mbele.</lines>
+    </verse>
+  </lyrics>
+</song>

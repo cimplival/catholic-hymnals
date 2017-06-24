@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-12-04T07:59:12">
+  <properties>
+    <titles>
+      <title>Immaculate Mary</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Marian</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immaculate Mary,<br/>your praises we sing,<br/>who reignest with Christ,<br/>our redeemer and King.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ave, ave, ave, Maria.<br/>Ave, ave, ave, Maria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Heaven the blessed,<br/>your glory proclaim,<br/>on earth we your children,<br/>invoke your family name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We pray you, O mother,<br/>may God's will be done,<br/>we pray for his glory,<br/>may his Kingdom come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We pray for our Mother,<br/>the Church upon earth;<br/>and bless, holy Mary<br/>the land of our birth.</lines>
+    </verse>
+  </lyrics>
+</song>

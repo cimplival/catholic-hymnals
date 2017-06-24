@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:39">
+  <properties>
+    <titles>
+      <title>Twenty Sixth Sunday in Ordinary Time Year A</title>
+    </titles>
+    <authors>
+      <author>Responsorial Psalm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Remember your compassion, <br/>O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

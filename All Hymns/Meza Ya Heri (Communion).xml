@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:25:04">
+  <properties>
+    <titles>
+      <title>Meza Ya Heri</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Njongeeni wote, <br/>twendeni tumealikwa,<br/>meza ya Bwana <br/>meza ya heri.<br/>Wake waume,<br/>watoto vijana wazee,<br/>meza ya Bwana <br/>meza ya heri.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Waumini,<br/>njoni tukaipokee, (njoni)<br/>ekaristi meza ya heri. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni heri gani, <br/>tumepewa wanadamu,<br/>meza ya Bwana <br/>meza ya heri.<br/>Kumpokea mwana<br/>wa Mungu mwenyewe,<br/>meza ya Bwana <br/>meza ya heri.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kikwazo gani <br/>kinachokung'ang'ania,<br/>meza ya Bwana <br/>meza ya heri.<br/>Kwa nini leo,<br/>usimkabidhi Yesu,<br/>meza ya Bwana <br/>meza ya heri.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chakula hiki,<br/>kina nguvu za kiMungu,<br/>meza ya Bwana <br/>meza ya heri.<br/>Za kumshinda,<br/>shetani na hila zake,<br/>meza ya Bwana <br/>meza ya heri.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ndicho kiungo,<br/>kati yetu na mwenyezi,<br/>meza ya Bwana <br/>meza ya heri.<br/>Iliturithi ufalme <br/>wake milele,<br/>meza ya Bwana <br/>meza ya heri.</lines>
+    </verse>
+  </lyrics>
+</song>

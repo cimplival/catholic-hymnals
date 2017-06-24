@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:12">
+  <properties>
+    <titles>
+      <title>Everyone Arise</title>
+    </titles>
+    <comments>
+      <comment>chorus 1(a)
+
+[above are Song Tags with notes imported from                         EasyWorship]</comment>
+    </comments>
+    <copyright>1998 WeMobile Music / Bridge Building Music, Inc., Administered by WeMobile Music / Brentwood-Benson Music Publishing</copyright>
+    <ccliNo>2797980</ccliNo>
+    <authors>
+      <author>Tommy Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everyone arise and let it shine<br/>Children of our God<br/>Your light has come<br/>For the glory of the Lord<br/>And beauty of His grace<br/>Is rising on you now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though the darkness covers<br/>All the earth<br/>They will see Your light<br/>They will hear Your sound<br/>For the glory of the Lord<br/>And beauty of His grace<br/>Is rising on you now</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Praise Him praise Him praise Him<br/>Arise and shine and celebrate Him<br/>Praise Him praise Him praise Him<br/>Let His glory rise on you</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And praise Him praise Him praise Him<br/>Arise and shine and celebrate Him<br/>Praise Him praise Him praise Him<br/>Let His glory rise on you<br/>Let it rise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There's just something so right<br/>About lifting His name on high<br/>It brings us joy<br/>And peace of mind<br/>When we give our lives<br/>To glorify Him so</lines>
+    </verse>
+  </lyrics>
+</song>

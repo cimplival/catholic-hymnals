@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T18:24:52">
+  <properties>
+    <titles>
+      <title>Ni Neno Njema</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ni neno njema x3 <br/>Kumshukuru Bwana.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Ni neno jema sana kumshukuru Bwana na kuliimbia Jina lako wewe uliye juu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Mwenye haki atasitawi kama mtende atakuwa kama mwelezi wa lebanoni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Wale waliopanda katika nyumba ya Bwana watasitawi<br/>katika nyumba ya Bwana nyumba ya Mungu wetu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Watazaa matunda hadi wawe wazee watajaa utomvu na kuwa na ubichi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Watangaze yakuwa Bwana ni mwenye adili mwamba wangu ndani yake kweli hamna udhalimu</lines>
+    </verse>
+  </lyrics>
+</song>

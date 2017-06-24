@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:40:09">
+  <properties>
+    <titles>
+      <title>Neno Lako Ni Taa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neno lako ni taa ya kuniangazia<br/>neno lako ni taa inayoniongoza</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ni taa ya miguu yangu<br/>na mwanga wa njia yangu<br/>niendapo popote ninaangaziwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimeteswa mno ee Bwana nihuishe<br/>sawa sawa na neno lako ee Mungu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee uziridhie sadaka zangu<br/>pia na kunifundisha hukumu zako.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Shuhuda zako nimezifanya uridhi<br/>maana ni changamko la moyo wangu</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Moyo wangu utazitii amri zako<br/>daima naam,daima na milele.</lines>
+    </verse>
+  </lyrics>
+</song>

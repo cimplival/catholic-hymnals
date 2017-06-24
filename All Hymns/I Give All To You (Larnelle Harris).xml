@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:11">
+  <properties>
+    <titles>
+      <title>I Give All To You</title>
+    </titles>
+    <copyright>1987 LifeSong Music Press, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>70840</ccliNo>
+    <authors>
+      <author>Larnelle Harris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I give all my service to You<br/>I give all my service to You<br/>Whatever the cost or what others do<br/>I give all my service to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I give all my problems to You<br/>I give all my problems to You<br/>Whatever the cost or what others do<br/>I give all my problems to You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I give my fam'ly to You<br/>I give my fam'ly to You<br/>Whateve the cost or what others do<br/>I give my fam'ly to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I give all my future to You<br/>I give all my future to You<br/>Whateve the cost or what others do<br/>I give all my future to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I give all my worship to You<br/>I give all my worship to You<br/>Whateve the cost or what others do<br/>I give all my worship to You</lines>
+    </verse>
+  </lyrics>
+</song>

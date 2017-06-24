@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:01">
+  <properties>
+    <titles>
+      <title>Nimeahidi Yesu kukutumikia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Nimeahidi Yesu kukutumikia<br/>wewe u Bwana wangu u rafiki pia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>sitaogopa vita wewe ndiwe mwenza <br/>sitaiacha njia ukiniongoza</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imbeni aleluya,aleluya imbeni <br/>shangwe kwa Bwana Yesu ndiye mwenza wetu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Dunia i karibu Bwana siniache <br/>na mengi majaribu yapo pande zote</lines>
+    </verse>
+    <verse name="v5">
+      <lines>siku zote adui ni ndani na nje <br/>Bwana Yesu nivute karibu na wewe</lines>
+    </verse>
+    <verse name="v6">
+      <lines>3.Nikusikie wewe nena nami Bwana<br/>kelele za dunia ndizo mingi sana</lines>
+    </verse>
+    <verse name="v7">
+      <lines>nena kunihimiza au kunionya <br/>nena nikusikie mwenye kuniponya</lines>
+    </verse>
+    <verse name="v8">
+      <lines>4.Umewapa ahadi wakufuatao<br/>kwenda uliko wewe wawe huko nawe</lines>
+    </verse>
+    <verse name="v9">
+      <lines>nami nimeahidi kukutumikia <br/>nipe neema bwana ya kukwandamia</lines>
+    </verse>
+    <verse name="v10">
+      <lines>5.Hatua zako BWana na nizikanyange<br/>wewe u mwenye nguvu mimi nimmnyonge</lines>
+    </verse>
+    <verse name="v11">
+      <lines>niongoze nivute nishike daima <br/>mwishoni niwasili mbinguni salama</lines>
+    </verse>
+  </lyrics>
+</song>

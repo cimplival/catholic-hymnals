@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T22:10:53">
+  <properties>
+    <titles>
+      <title>Nitakwenda Kwa Shangwe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nitakwenda kwa shangwe <br/>na vigelegele, <br/>Niingie nyumbani mwa Bwana <br/>Mungu wangu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nitacheza, nitaruka, <br/>nitaimba, wimbo ule mtamu.<br/>Baba njooni mama njooni, <br/>tufurahi mbele za Mungu wetu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njoni wote wazee <br/>vijana na watoto, <br/>shangilieni leo nyumbani <br/>mwake Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nitasema asante kwako<br/> Mola Rabana, <br/>Kwa ukarimu wako usio na kifani.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nitatoa shukrani zangu <br/>kwa Mungu muumba,<br/>nitakushukuru leo, <br/>kesho na daima.</lines>
+    </verse>
+  </lyrics>
+</song>

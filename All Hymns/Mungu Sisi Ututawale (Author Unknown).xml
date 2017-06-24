@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:33:58">
+  <properties>
+    <titles>
+      <title>Mungu Sisi Ututawale</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mungu sisi ututawale, Mungu sisi ututawale. X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Twakushukuru kwa ajili ya Yesu oh - Mungu sisi ututawale.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Utujalie ushirika wa Yesu oh - Mungu sisi ututawale.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. Twashukuru kwa maisha yetu oh - Mungu sisi ututawale.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Upendo wetu kwa Mwanao Yesu oh  - Mungu sisi ututawale.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>3. Wokuvo wetu twauleta kwa Yesu oh  - Mungu sisi ututawale.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Furaha yako utujalie Yesu oh  - Mungu sisi ututawale.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>4. Majuto yetu twayaleta kwa Yesu oh  - Mungu sisi ututawale.</lines>
+    </verse>
+  </lyrics>
+</song>

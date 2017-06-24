@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:13">
+  <properties>
+    <titles>
+      <title>Njoni Tumwimbie Na Kumshangilia</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Njoni tumwimbie na kumshangilia, <br/>njoni tumwabudu Bwana.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Njoni tumjongee njoni kwa masifu njoni tumwabudu Bwana</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Tumfanyie shangwe mwamba wa wokovunjoni tumwabudu Bwana</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.Yeye ndiye Bwana yeye Mungu mkuu njoni tumwabudu Bwana</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.Yeye ndiye mfalme wa wafalme wote njoni tumwabudu Bwana</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.Milima ni yake pia makorongo njoni tumwabudu Bwana</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6.Bahari ni yake pia nchi kavu njoni tumwabudu Bwana</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7.Yeye Mungu wetu aliye tuumba njoni tumwabudu Bwana</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8.Sisi ndio watu wa malisho yake njoni tumwabudu Bwana</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:28">
+  <properties>
+    <titles>
+      <title>Fourteenth Sunday in Ordinary Time - Year C Psalms</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Psalms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Cry our with joy to God,<br/>all the earth.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Cry out with joy to God,<br/>all the earth.<br/>O sing to the glory of<br/>his name.<br/>O render him glorious praise.<br/>Say to God,<br/>"How awesome your deeds!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Before you all the earth<br/>shall bow down,<br/>shall sing to you,<br/>sing to your name!"<br/>Come and see the works of God:<br/>awesome his deeds<br/>among the children of men.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He turned the sea into dry land;<br/>they passed through<br/>the river on foot.<br/>Let our joy, then be in him,<br/>he rules forever by his might.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come and hear,<br/>all who fear God;<br/>I will tell what he did<br/>for my soul; Blest be God,<br/>who did not reject my prayer,<br/>nor withhold from me<br/>his merciful love.</lines>
+    </verse>
+  </lyrics>
+</song>

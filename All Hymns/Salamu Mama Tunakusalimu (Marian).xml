@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:49:25">
+  <properties>
+    <titles>
+      <title>Salamu Mama Tunakusalimu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Marian</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Salamu mama maria,<br/>wanao twakusalimu<br/>(mama wa Yesu)<br/>Salamu twakutolea.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sisi wanao,<br/>twazileta sala <br/>za maombi yetu,<br/>mama mwema utusikilize.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tusaidie kuyashinda<br/>majaribu ya dunia<br/>utusimamie<br/>wanawako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwovu shetani,<br/>tumshinde sisi<br/>kwa maombi yetu<br/>mama wa mokozi<br/>tusike.</lines>
+    </verse>
+  </lyrics>
+</song>

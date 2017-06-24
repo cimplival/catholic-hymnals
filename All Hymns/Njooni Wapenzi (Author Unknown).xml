@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:57:38">
+  <properties>
+    <titles>
+      <title>Njooni Wapenzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Njooni wapenzi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.Njooni wapenzi tufanye shangwe<br/>mwokozi Bwana amefufuka</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viumbe vyote tufanye shangwe<br/>mwokozi Bwana amefufuka</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na tufanye shangwe twimbe aleluya <br/>mwokozi Bwana amefufuka</lines>
+    </verse>
+    <verse name="v5">
+      <lines>2.Leo mapema amefufuka-<br/>Kaburi lake ameliacha-</lines>
+    </verse>
+    <verse name="v6">
+      <lines>3.Walinzi wake walishituka-<br/>wakawa kama wamezimia-</lines>
+    </verse>
+    <verse name="v7">
+      <lines>4.Kwa ufufufuko wako ee Bwana-<br/>Umeturudishia uzima-</lines>
+    </verse>
+    <verse name="v8">
+      <lines>5.Umewashinda adui zetu-<br/>Mauti kali pia shetani-</lines>
+    </verse>
+    <verse name="v9">
+      <lines>6.Enzi ni yako ya umilele-<br/>shukrani sifa na utukufu</lines>
+    </verse>
+    <verse name="v10">
+      <lines>7.Hii ndiyo siku iliyofanywa-<br/>na Mungu nayo ni ya furaha-</lines>
+    </verse>
+  </lyrics>
+</song>

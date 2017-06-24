@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:55">
+  <properties>
+    <titles>
+      <title>There Is None Like You</title>
+    </titles>
+    <copyright>2005 Travelin' Zoo Music / New Spring, Administered by EMI Christian Music Publishing / Brentwood-Benson</copyright>
+    <ccliNo>4586436</ccliNo>
+    <authors>
+      <author>Josh Bates</author>
+      <author>Michael Boggs</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're giver of salvation<br/>Ruler of the nations<br/>Father of creation<br/>I sing to You<br/>My refuge and my strength<br/>Purpose and my peace<br/>The reason I believe when I can't see<br/>Redeemer full of grace<br/>Author of my faith I sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is none like You<br/>We love and we praise<br/>Amazing is Your grace<br/>There is none like You<br/>The only King of kings<br/>Lord of everything<br/>It's true<br/>There is none like You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>A few more pages turned<br/>Another lesson learned<br/>'Cause You speak through Your word<br/>Right to my heart<br/>You hold the hands of time<br/>Yet You still hold mine<br/>And I cannot see why You love me like You do<br/>Creator of life<br/>My hope and my guide I sing</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Misc 1<br/>BRIDGE<br/>You hold tomorrow<br/>Making all things new<br/>There is none like You</lines>
+    </verse>
+  </lyrics>
+</song>

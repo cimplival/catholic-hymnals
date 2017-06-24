@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T19:23:24">
+  <properties>
+    <titles>
+      <title>Malaika Wa Bwana (Kalingi)</title>
+    </titles>
+    <verseOrder>c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Malaika wa Bwana (Mungu), <br/>uchukue sadaka; <br/>Upeleke mbele ya uso, wa Mungu. <br/>(Malaika). *2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.    Ni mazao ya nchi yetu, Na kazi yao wanadamu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.    Mkate mazao ya shamba, divai tunda la mzabibu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.    Ufikishe sadaka hii, karibu na kiti cha enzi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>4.    Sadaka yetu ifanyike, mbele ya uso wa muumba.</lines>
+    </verse>
+  </lyrics>
+</song>

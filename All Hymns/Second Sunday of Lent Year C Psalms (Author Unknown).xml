@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-17T20:25:29">
+  <properties>
+    <titles>
+      <title>Second Sunday of Lent Year C Psalms</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>The Lord is my light and my salvation.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The Lord is my light and my salvation; <br/>whom shall I fear? <br/>The Lord is the stronghold of my life;<br/> whom should I dread?  </lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, hear my voice when I call; <br/>have mercy and answer me. <br/>Of you my heart has spoken, <br/>“Seek his face.” </lines>
+    </verse>
+    <verse name="v3">
+      <lines>It is your face, O Lord, that I seek; <br/>hide not your face from me. <br/>Dismiss not your servant in anger; <br/>You have been my help. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>I believe I shall see the Lord's <br/>goodness in the land of the living.<br/>Wait for the Lord; be strong; <br/>be stouthearted, and wait for the Lord! </lines>
+    </verse>
+  </lyrics>
+</song>

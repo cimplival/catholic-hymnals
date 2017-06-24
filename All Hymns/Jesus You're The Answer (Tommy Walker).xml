@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:45:33">
+  <properties>
+    <titles>
+      <title>Jesus You're The Answer</title>
+    </titles>
+    <copyright>2001 WeMobile Music / Bridge Building Music, Inc., Administered by WeMobile Music / Brentwood-Benson Music Publishing</copyright>
+    <ccliNo>3660896</ccliNo>
+    <authors>
+      <author>Tommy Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Jesus You're the answer<br/>To all I'm searching for<br/>Jesus Jesus there's no question<br/>You're what my heart is longing for</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're my hope You're my strength<br/>You're my peace in the stormy sea<br/>You're my life my very source<br/>My guiding light wherever I may go</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You're what my heart is longing for</lines>
+    </verse>
+  </lyrics>
+</song>

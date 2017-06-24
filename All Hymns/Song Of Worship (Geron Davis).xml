@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:50:01">
+  <properties>
+    <titles>
+      <title>Song Of Worship</title>
+    </titles>
+    <copyright>1997 Paragon Music Corporation / DaviShop, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>2003306</ccliNo>
+    <authors>
+      <author>Geron Davis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I will enter His gates with thanksgiving<br/>I will enter His courts with praise<br/>I will lift up a song of worship<br/>I will bless His holy name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Our Lord God is so holy<br/>Mighty in all of His ways<br/>Our Lord God is so worthy<br/>Worthy of all our praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the One Who has given<br/>Given my heart a brand new song<br/>I will sing to Him in worship<br/>Praising Him all day long</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I will lift up a song of worship<br/>I will bless His holy name<br/>I will enter His gates with Thanksgiving<br/>I will bless His Holy name</lines>
+    </verse>
+  </lyrics>
+</song>

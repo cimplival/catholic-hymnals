@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-05-14T08:41:20">
+  <properties>
+    <titles>
+      <title>SOGEA MEZA By Kalluh</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sogea meza yake Takatifu kwa moyo safi kampokee Yesu atakujaza neema  zake. X2.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Enyi wakristu, tumwabudu Yesu, huoni mwili wa mwenyewe Yesu Kristu, ni damu yake Bwana  Yesu Kristu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ee Yesu mwema, tubariki sote, utuokoe tuopoe hatarini, EeYesu  wangu na kutumaini.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Nifiche ndani yako Yesu wangu, ili nionje pendo  lako Yesu wangu, mwili na roho nina kupa wewe.</lines>
+    </verse>
+  </lyrics>
+</song>

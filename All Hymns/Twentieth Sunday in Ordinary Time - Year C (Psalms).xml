@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:51:29">
+  <properties>
+    <titles>
+      <title>Twentieth Sunday in Ordinary Time - Year C</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Psalms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lord,<br/>make haste to help me!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I waited,<br/>I waited for the Lord,<br/>and he stooped down to me;<br/>he heard my cry.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He drew me<br/>from the deadly pit,<br/>from the miry clay.<br/>He set my feet upon a rock,<br/>made my footsteps firm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He put a new song<br/>into my mouth,<br/>praise of our God.<br/>Many shall see and fear<br/>and shall trust in the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wretched and poor though I am,<br/>the Lord is mindful of me.<br/>You are my rescuer, my help;<br/>O my God, do not delay.</lines>
+    </verse>
+  </lyrics>
+</song>

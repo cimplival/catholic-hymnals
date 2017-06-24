@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:01">
+  <properties>
+    <titles>
+      <title>Nimefufuka ni ningali pamoja nawe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nimefufuka ni ningali pamoja nawe,<br/>umeniwekea mkono wako*2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maarifa hayo ni (ya ajabu)ya ajabu (aleluia),<br/>maarifa hayo ni ya ajabu aleluia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.Ee Bwana umenichunguza na kunijua,<br/>wewe wajua kuketi kwangu na kuondoka kwangu umelifahamu wazo langu tokea mbali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.Umepepeta kwenda kwangu na kulala kwangu<br/>umeelewa na njia zangu zote maana hamna neno ulimi ni mwangu usilolijua kabisa Bwana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.Umenizingira nyuma na mbele, ukaniwekea mkono wako maarifa hayo ni ya ajabu, yanishinda mimi,<br/>hayadiriki siwezi kuyafikia</lines>
+    </verse>
+    <verse name="v6">
+      <lines>4.Niende wapi nijiepushe na roho yako, niende wapi niukimbie uso wako, kama ningepanda mbinguni wewe upo ningefanya kuzimu kitanda changu wewe upo</lines>
+    </verse>
+  </lyrics>
+</song>

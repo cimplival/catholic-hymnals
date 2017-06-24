@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:48:57">
+  <properties>
+    <titles>
+      <title>Praise You</title>
+    </titles>
+    <copyright>1992 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>863806</ccliNo>
+    <authors>
+      <author>Elizabeth Goodine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Praise You praise You praise You<br/>Let my life praise You<br/>Praise You praise You praise You<br/>Let my life O Lord praise You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord I come to You today<br/>With a simple prayer to pray<br/>In everything I do<br/>Let my life O Lord praise You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord You formed me out of clay<br/>For Your glory I was made<br/>Use this vessel as You choose<br/>Let my life O Lord praise You</lines>
+    </verse>
+  </lyrics>
+</song>

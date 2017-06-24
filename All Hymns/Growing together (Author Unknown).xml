@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:44:45">
+  <properties>
+    <titles>
+      <title>Growing together</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Growing together as the family of God and celebrating our Christian heritage with joy and love in one true faith.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. You call us Lord to receive the Good News that make us one as a family of God X2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. You call us Lord to receive the Sacrament that make us one as a family of God X2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. You call us Lord to live in love that make us one as a family of God X2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. You call us Lord to live in truth that make us one as a family of God X2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. You call us Lord to live in you that make us one as a family of God X2</lines>
+    </verse>
+  </lyrics>
+</song>

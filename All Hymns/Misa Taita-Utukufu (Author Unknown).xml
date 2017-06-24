@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-10-15T21:47:30">
+  <properties>
+    <titles>
+      <title>Misa Taita-Utukufu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tukufu;<br/>Tukufu kwa Mungu juu<br/>Amani;<br/>na amani duniani</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa watu wenye mapenzi;<br/>wenye mapenzi mema*2<br/>A ma ni</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sifa;<br/>sisi tunakusifu<br/>Heshima;<br/>sisi tunakuheshimu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tunakuabudu;<br/>sisi tunakuabudu*2<br/>He shi ma</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tukufu;<br/>sisi tunakutukuza<br/>Shukrani;<br/>sisi tunakushukuru</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kwa ajili ya utukufu;<br/>Utukufu wako mkuu*2<br/>Shukrani</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ee Mungu;<br/>Ee Bwana Mungu<br/>Ee Baba;<br/>mfalme wa mbinguni</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ee Mungu Baba;<br/>Mungu Baba Mwenyezi*2<br/>Ee Baba</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ee Bwana ;<br/>Ee Bwana Yesu Kristu<br/>Ee Mwana ;<br/>Kristu mwana wa pekee</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mwana wa Baba;<br/>Mwanakondoo wa Mungu*2<br/>Ee Mwana</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mwokozi;<br/>mwenye kuondoa dhambi<br/>Huruma ;<br/>dhambi za dunia</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Utuhurumie;<br/>Pokea ombi letu*2<br/>Hu ru ma</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Ee Yesu;<br/>kwani ndiwe mtakatifu<br/>Ee Kristu;<br/>Kwani ndiwe Bwana</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Ee Yesu Kristu;<br/>Ndiwe pekee yako mkuu*2<br/>Ee Kristu</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Umoja;<br/>Pamoja na roho mtakatifu<br/>Milele;<br/>katika utukufu</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Utukufu wa Mungu Baba;<br/>Kristu anaishi*2<br/>Milele</lines>
+    </verse>
+  </lyrics>
+</song>
